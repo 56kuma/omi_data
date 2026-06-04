@@ -1,0 +1,14 @@
+---
+date: 2026-02-22
+tag: misc
+duration: 22
+source_id: 8ab6be5d-b1bb-4bdf-8cd1-9c3fd7258011
+---
+
+# 玄関ドアの解錠通知
+
+システムから「Your door has been unlocked.」という通知があり、ドア（おそらく玄関）が解錠されたことだけが伝えられている。会話や追加の文脈はなく、解錠状態の知らせ以外の情報は含まれていない。
+
+## 発話
+
+[Speaker 1] Your door has been unlocked.

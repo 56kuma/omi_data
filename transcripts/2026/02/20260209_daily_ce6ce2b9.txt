@@ -1,0 +1,14 @@
+---
+date: 2026-02-09
+tag: daily
+duration: 35
+source_id: ce6ce2b9-4e6d-4972-9596-e7b5860c3da0
+---
+
+# 電車アナウンスの車両案内と次駅情報
+
+電車内アナウンスの文字起こしで、横○線の列車であること、グリーン車が4号車と5号車に位置すること、グリーン車利用にはグリーン券が必要であることが案内されている。続いて、次の停車駅についての英語アナウンス（一部ノイズを含む）が流れている。
+
+## 発話
+
+[Speaker 0] この 電車 は 横 北 線 虫 雪 です。 グ リーン 車 は 横 号 車 と 横 号 車 です。 グリ ッサ を 利用 の 際 には グ リーン圏 な 道 です。 次は 西 洋 o u u This is a custom line train for this green card, car number four, and number five. A green card ticket is required in the green card The next station is J 016.

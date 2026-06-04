@@ -1,0 +1,23 @@
+---
+date: 2026-03-25
+tag: daily
+duration: 474
+source_id: fece703b-bf4d-4430-8c19-850d9127233a
+---
+
+# 京浜東北線の車内アナウンス記録
+
+京浜東北線の車内で録音されたアナウンスが断片的に記録されている。日本語と英語で、電車の行き先（桜木町行き）、次の停車駅（大井町、蒲田/J K 19・J K 17）や、ドアが右側に開く案内、優先席利用のお願い、駆け込み乗車・事故防止に関する注意喚起などが流れている様子が含まれている。会話ではなく、自動放送とみられる。
+
+## 発話
+
+[Speaker 0] この 電車 は 京 浜 東 国 前。 白亜 否 定 した 桜 見 町 行き です。 国 は大 い 街 です。このデ ー 社 には 優先 席 があります。 優先 席 を 必要 と される お客 様が いらっしゃ い
+[Speaker 0] お客 様 のご 協 力を 。 This is the Keihin Towokuline train four, Takudai Cho. The next station is Oimachi J K 19.
+[Speaker 0] Aí
+[Speaker 0] 右側 です。
+[Speaker 0] Forty eight.
+[Speaker 0] Oh my
+[Speaker 0] Next si ne, ooor.
+[Speaker 0] お客 様に お願い 致します。 電車 は 自己 防止 の 、 る。 ことが ありますので、 私 のお 客 様は
+[Speaker 0] The next station is Kamasan. 17.
+[Speaker 0] 折 れ 口 は 右 側 です。 The next station is鎌ata. J K 17. The doors on the right side will open.

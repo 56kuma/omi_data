@@ -1,0 +1,15 @@
+---
+date: 2026-04-09
+tag: daily
+duration: 83
+source_id: ed3cb3af-9c68-4cde-a86c-e2650aad8df1
+---
+
+# 空港搭乗案内のゲート情報アナウンス
+
+録音内容は空港での搭乗案内と思われる短いアナウンスで、フライトJ20便のゲート情報と、右側のドアが開く旨を案内している。詳細な時間や日付、話者情報などは含まれていない。
+
+## 発話
+
+[Speaker 0] Ya la va.
+[Speaker 0] For a gateway, J y twenty The door is the right side will open.

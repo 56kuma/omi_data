@@ -1,0 +1,14 @@
+---
+date: 2026-03-05
+tag: work
+duration: 658
+source_id: 73780d34-81f7-4abe-98ec-619269d1a452
+---
+
+# 電車車内アナウンスの英語表現
+
+録音された内容は電車内アナウンス風の英語フレーズで、「The next station is ○○」「ドアは右側が開きます」といった案内表現が含まれている。会話というよりは車内放送あるいはその練習の一部とみられる。具体的な予定やタスクには触れられていない。
+
+## 発話
+
+[Speaker 0] Okay. All factory, all factory. Orange is a meeting です。 The next thirteen. The doors on the right side will open.

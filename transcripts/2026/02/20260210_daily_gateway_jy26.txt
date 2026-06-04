@@ -1,0 +1,14 @@
+---
+date: 2026-02-10
+tag: daily
+duration: 1
+source_id: c031c23b-ac8d-4da4-b8fa-f4200862ad88
+---
+
+# 駅アナウンス: Gateway JY26 停車案内
+
+電車内での自動アナウンスで、「Gateway, JY 26. The doors on the right side will open.」と英語で案内している。山手線などのJY26番ホームに到着し、右側のドアが開くことを乗客に知らせている情景と考えられる。
+
+## 発話
+
+[Speaker 0] Gateway, JY 26. The doors on the right side will open.

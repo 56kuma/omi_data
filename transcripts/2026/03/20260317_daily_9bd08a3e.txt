@@ -1,0 +1,21 @@
+---
+date: 2026-03-17
+tag: daily
+duration: 246
+source_id: 9bd08a3e-2530-4ab3-a568-67d756d59218
+---
+
+# 横須賀線・久里浜行き案内アナウンス
+
+駅ホームでの車内アナウンス音声の書き起こし内容。横須賀線の普通（各駅停車）久里浜行きがまもなく15番線に到着する旨や、15両編成であること、一部の号車が途中駅止まりであること、停車駅（大船・北鎌倉・鎌倉 など）の案内がなされている。また、グリーン車の乗車位置案内、黄色い線の内側で待つようにという安全喚起、二列に並んで乗車を待つようにという整列乗車のお願いが日本語と英語で行われている。
+
+## 発話
+
+[Speaker 0] The forty six PM local train bound for Kurigama. Kodama, 十 五 両 です。 この 電車 の より 四遍 は 図 心。 まり となります。 この 電車 は 大 い 武 蔵 小 住。 新 川 崎
+[Speaker 0] と 二 日 大 札 北鎌 倉鎌 倉 の 順 に 提 唱 いたします。 be standing at are Nishi Oi.
+[Speaker 0] 田鎌 倉、
+[Speaker 0] グ リーン 社 は 足 元 乗 車 口 四 校 舎 と 五 校 舎 でお 待ち ください。
+[Speaker 0] 車 を お願い しております。 二 列 に 並 んで お待ち ください。
+[Speaker 0] 最後 は
+[Speaker 0] 普通、栗 浜 行き が 参 ります。 危 ないから、 黄色 い 展 示 袋 まで お しゃべ り ください。 Your attention, please. The local trend valid for Kuruhama. Soon arrive on track number 15. For your safety, please stand behind the yellow line.
+[Speaker 0] この 電車 は 十 五 両 です。 この 電車 の より 四 量は 図 止 止 止 まり となります。

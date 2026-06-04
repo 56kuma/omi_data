@@ -1,0 +1,21 @@
+---
+date: 2026-03-09
+tag: daily
+duration: 156
+source_id: bfd4a938-f303-438f-9261-712e8c1f9430
+---
+
+# 電車アナウンスで荷物移動と車両案内
+
+電車内での自動アナウンスが記録されている。ドアが閉まらず電車が発車できないため、「お荷物を体側に強く引いてください」「お買い物袋を引き寄せてください」といった注意喚起が繰り返されている。また、途中停車駅やグリーン車についての案内もあり、「グリーン車は4号車と5号車で、グリーン券が必要」「次の駅は西…」などと、日本語と英語で車両・座席の説明が行われている。
+
+## 発話
+
+[Speaker 0] 荷 物 から 強く 引 いてください。
+[Speaker 0] お 荷 物を
+[Speaker 0] お 荷 物を 体 強く 引 いてください。
+[Speaker 0] 川 が 閉 まらない ため 下が でき ません。 お 荷 物を カード は 強く 引 いてください。
+[Speaker 0] 電 車が 発 射 できません。 お 荷 物、 お 買い 物、 強く 引 いてください。
+[Speaker 0] お 荷 物
+[Speaker 0] 作り 花 が 切 れる。 前 四 は 途中 の主 泊 まり です。 ヌ リン 社 は 四 号 車 と 五 号 車 で can't afford, Purikama. The 1st Floor will go only to the seats.
+[Speaker 1] Green cars are car number four and number five. A Greek card ticket is required in the green card. The next station is Nishiyoi j o sixteen.

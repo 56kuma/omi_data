@@ -1,0 +1,16 @@
+---
+date: 2026-02-16
+tag: daily
+duration: 241
+source_id: f8d4dc1a-44e3-4f89-89b3-a933507f0c36
+---
+
+# 電車アナウンスのドア開閉案内
+
+電車内の自動アナウンスの一部で、まもなく到着する駅ホームにおいて、乗降用ドアが左側、続いて右側に開くことを乗客へ日本語と英語で案内している内容。特定の会話や予定調整は行われていない。
+
+## 発話
+
+[Speaker 0] は 左 側 です。 The next 死ぬ 西 Omi, J o 16, the door for the left fire and motor.
+[Speaker 0] Avenida, si
+[Speaker 0] ま もなく しながら、 しながら 折 れ 口 は 右 側 です。 The next doors on the right side will open.

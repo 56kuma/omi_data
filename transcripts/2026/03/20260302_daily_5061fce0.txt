@@ -1,0 +1,14 @@
+---
+date: 2026-03-02
+tag: daily
+duration: 5
+source_id: 5061fce0-1ea9-4f15-a48d-d53efea38a8f
+---
+
+# ゲートウェイ到着初日の状況メモ
+
+会話は「ゲートウェイ、初日。右側のドア」といった短い発話のみで構成されており、場所の案内や状況説明の一部とみられる。詳細な文脈や予定・タスクは示されていない。
+
+## 発話
+
+[Speaker 1] gateway. Day one, Doors on the right

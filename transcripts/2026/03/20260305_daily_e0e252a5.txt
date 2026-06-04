@@ -1,0 +1,14 @@
+---
+date: 2026-03-05
+tag: daily
+duration: 21
+source_id: e0e252a5-7843-4af1-b6c1-ce1f5c378ae1
+---
+
+# 電車内英語アナウンスの聞き取り
+
+録音内容は電車内の英語アナウンスの一部で、「j y twenty five, The doors on the left side will open. Please change for ... line」というように、路線案内と乗り換え案内をしている。具体的な場所名や予定・約束などは含まれていない。
+
+## 発話
+
+[Speaker 0] 幹 線。 j y twenty five, The doors on the left side will open. Please change your floor, the sheet on hand, the Tokino line, the Ocostal Line, and the Cajun Line.

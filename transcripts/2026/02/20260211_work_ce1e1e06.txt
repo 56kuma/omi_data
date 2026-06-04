@@ -1,0 +1,15 @@
+---
+date: 2026-02-11
+tag: work
+duration: 105
+source_id: ce1e1e06-2d8f-471a-82b6-32c363aaf877
+---
+
+# 電車アナウンスの英語表現確認
+
+電車のドアが開く位置を案内する日本語アナウンス「折れ口は左側です」を、英語で「The doors of the left side will open.」と表現している例が示されている。日本語と英語の対応や発音らしき部分が含まれており、鉄道車内放送の表現確認・練習の一場面と考えられる。
+
+## 発話
+
+[Speaker 0] 折 れ 口 が 左 様 です。 n fine. The doors of the left sign will open.
+[Speaker 0] 折 れ 口 は 左 側 です。

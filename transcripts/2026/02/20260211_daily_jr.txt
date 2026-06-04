@@ -1,0 +1,14 @@
+---
+date: 2026-02-11
+tag: daily
+duration: 3
+source_id: 80897523-2e8b-4071-9f40-12c40356b194
+---
+
+# JR線乗り換えアナウンス
+
+電車内または駅構内でのアナウンスと思われる音声で、JR線や「武蔵小杉」付近での乗り換え案内が行われている。「Please change here for the … line and the JR line」と英語での乗り換え案内も含まれている。
+
+## 発話
+
+[Speaker 0] Jr 線 はこの控 え です。 ステ レ シ ッシュ です。 武 蔵 小 好き。 t y 11. Please change here for the negative line and the JR line.

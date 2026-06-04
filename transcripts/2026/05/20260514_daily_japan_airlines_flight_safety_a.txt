@@ -1,0 +1,16 @@
+---
+date: 2026-05-14
+tag: daily
+duration: 53
+source_id: 5ae4f05f-63ad-4fe3-b66c-d840af0c50b3
+---
+
+# Japan Airlines Flight Safety Announcement
+
+機内アナウンスで、出発後の飛行時間は約1時間25分と案内されました。最新の天候情報により多少の揺れが予想されるため、気分が悪くなりやすい乗客への注意喚起がありました。また、離着陸を含む全時間帯で携帯電話などの無線電波を発する機器の使用は不可で、機内およびトイレ内での喫煙や電子たばこも禁止と説明され、最後にJALとワンワールドへの搭乗のお礼が述べられました。
+
+## 発話
+
+[Speaker 0] 皆 様 改 め ま し て 、こんにちは 。 きょう も ワン ワールド ア ライ アン ス メン バー 、 琵琶 湖 区 を ご 登 場 く だ さ い ま し て 、誠 に ありがとう ござい ます 。 琵琶 区 は 琵琶 湖 区 3 17 便 福 岡 空 港 行き で ござい ます 。どう も 駅 を 出 発 に ご 協 力 く さ い ま し て 誠 に ありがとう ござい ま し た 。本日 の 貴重 は 梅 山 小 林 。私は 客 室 を 担 当 い た し ます 。 し か に と 申 し ます 。 ひ と き 、ま も なく し ます 。
+[Speaker 0] シート ベルト は 腰 の 低 い 位 に ね じ れ 、 緩 み の 無 い よう 、しっかり と お し て く だ さ い 。本日 5 分 ま で の 飛 行 時 間 は 寝 陸 後 1 時 間 2 5 分 を 予 定 し て お り ます 。本日 は 所 々 雲 の 中 を 飛 行 い た し ます た め 突 然 揺 れる こ と も ござい ます 。 座 席 に お 着 け の 際 に は 常 に シー ト ベルト を お 使 い い た だ け ます よう 、どうぞ 皆 様 と ご 協 力 を お 願 い い し ます 。それ が 小 さ な お 客 様 は お 子 様 、お 供 で じっ くり と なり ます 。 未 来 で お 伝 播 する し よう が お 集 め さ れる 戻っ て です か 電 源 を お 切り く だ さ い 。 未 来 は 教 室 を 含 め 全 席 です。 電 子 束 事 も ご 使 用 い た だ く こ と が で き ま せ ん 。それ で は どう ぞ 、ご ゆ っ くり お 過 ご し く だ さ い 。
+[Speaker 0] Our expected flight time to hook up will be one hour and twenty five minutes after we take off. according to the latest weather information, we may have some turbulence and mood, so please check your passengers who felt light and low. there are no ways at all times. now remind you that the use of cell phones or other devices that emit radio waves is against the load. please set your devices to the mode which do not demand radio waves or turn them off. smoking, that is, of e cigarettes, or similar products are prohibited in the cabin, including in the restrooms. we would like to say thank you for flying with japan airlines, a member of the one world alliance. so please sit back and relax. enjoy your whole one hour and twenty five minutes of your flight.

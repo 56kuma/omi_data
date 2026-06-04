@@ -1,0 +1,16 @@
+---
+date: 2026-03-23
+tag: daily
+duration: 319
+source_id: 477c67bf-221f-4520-b707-0e459770a65e
+---
+
+# 電車到着と右側ドア開扉アナウンス
+
+電車内でのアナウンスとして、「右側です。ゲートウェイ、右側のドアが開きます」という趣旨の英日混在の案内がされている。到着後に右側のドアが開くことを乗客に知らせている場面。
+
+## 発話
+
+[Speaker 0] Ok,
+[Speaker 0] 右 側 です。
+[Speaker 0] Gateway The doors on the right side will open.

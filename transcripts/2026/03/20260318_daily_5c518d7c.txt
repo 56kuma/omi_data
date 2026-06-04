@@ -1,0 +1,14 @@
+---
+date: 2026-03-18
+tag: daily
+duration: 4
+source_id: 5c518d7c-335a-4056-a3f2-9401bfdbb3fa
+---
+
+# 道路左側のドアの位置確認
+
+話者が「n three」に関連する地点について説明し、その場所では道路の左側にドア（入口）があると位置情報を伝えている。短いやり取りで、方向・位置案内が主な内容となっている。
+
+## 発話
+
+[Speaker 2] n three. The door is on the left side of the road.

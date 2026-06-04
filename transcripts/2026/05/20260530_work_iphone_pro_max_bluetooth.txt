@@ -1,0 +1,15 @@
+---
+date: 2026-05-30
+tag: work
+duration: 22
+source_id: 7cc02670-b582-44ba-b740-11aede9863ca
+---
+
+# iPhone Pro Max のBluetooth接続方法
+
+ユーザーは、iPhone 15 Pro Max に分割キーボードを Bluetooth で接続する方法について質問している。最初の発話では「文化 好き」を iPhone Pro, 15Max に Bluetooth 接続するとあり、続く発話で「分割キーボード」を iPhone 15 Pro Max に Bluetooth で接続する方法を改めて尋ねている。全体として、iPhone と Bluetooth 周辺機器のペアリング手順を知りたい内容。
+
+## 発話
+
+[User] 文化 好き を iPhone Pro, 15Max に Bluetooth 接続 する 方法 を教えて、
+[User] 分 割 キ ーボード を iPhone 十 五 Pro Max に Bluetooth で 接続 する 方法 を教えて、

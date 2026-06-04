@@ -1,0 +1,14 @@
+---
+date: 2026-02-09
+tag: work
+duration: 4
+source_id: f3e8a045-553f-4a08-b26b-dc1023c1ccb6
+---
+
+# ソーダ交換に関する簡単な指示
+
+会話では、「16」はサイレントオープニングとしてそのまま残し、「ソーダの交換は1に変更するように」という短い業務上の指示が共有されている。詳細な文脈や背景は示されていないが、設定値やオプション番号を扱う作業手順の一部とみられる。
+
+## 発話
+
+[Speaker 1] The 16, but those are the left silent openings. Please leave it for the soda change to one.

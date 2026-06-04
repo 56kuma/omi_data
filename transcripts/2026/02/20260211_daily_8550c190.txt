@@ -1,0 +1,19 @@
+---
+date: 2026-02-11
+tag: daily
+duration: 468
+source_id: 8550c190-c549-48d4-ae47-b6648d1db721
+---
+
+# 京浜東北線の車内アナウンス記録
+
+京浜東北線・根岸線の車内および駅ホームの自動アナウンスが記録されている。南浦和駅に列車が到着する案内、安全のため白線・点字ブロックまで下がるように注意喚起する放送、ドアが閉まるため駆け込み乗車を控えるよう促す日本語アナウンスが含まれる。その後、車内英語アナウンスで次駅が東神奈川（Higashi-Kanagawa, JK13）、新子安（Shin-Koyasu, JK14）であること、右側のドアが開くこと、横浜線への乗り換え案内、携帯電話のマナーモード設定と通話を控えるよう求める内容が続く。最後にJR東日本を利用していることへの感謝の日本語アナウンスで締めくくられている。
+
+## 発話
+
+[Speaker 0] ま もなく 四 番 線 に 過去 駅 停 車 南 浦 和 が まいります。 危 ないから、 白い 点 ブロック まで お 盛り ください。 井 戸 川 が 閉 まります。 これから の 乗 車 お やめ ください。 閉 ま 。 ドア 閉 まって ます。 無理 な 乗 車 は、 お やめ Yokohama, 平均 倒 木 線、 発 撃 支援 した。 ディ ナ 東 様 なら、 お で ん ちは 右 側 で 横 長 線 はお 乗り 換 です。 This is the Keihi Selvukemine Train Store, Minami Mada.
+[Speaker 2] The next station is Higashikanaga. J K 13. The doors on the right side will open. Please change your floor to the Oklahoma line.
+[Speaker 2] Avenida.
+[Speaker 2] The next station is? Cinco Yaces. J K 14. Please your mobile phone to silent home and recite from talking on the phone.
+[Speaker 2] ミ は 右 長 です。 The next station is Cinco J K 14. The door on the right side were local.
+[Speaker 1] 本日 も JR 東 の 部 長 を見 出 せ ますね。

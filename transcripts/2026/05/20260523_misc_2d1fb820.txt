@@ -1,0 +1,25 @@
+---
+date: 2026-05-23
+tag: misc
+duration: 286
+source_id: 2d1fb820-496f-4344-9229-883133b4c44f
+---
+
+# ブルックリンの家賃と引っ越しを確認
+
+会話では、ブルックリンがニューヨークにあるか、家賃が高いかどうか、建物の3階に住む伯母について触れられました。ユーザーはブルックリンの家賃は高いと述べ、さらに4月中旬に引っ越す予定だと話しています。また、家具店へ車で行くこと、母からの電話、6月3日に日本での予定らしき言及もありましたが、具体的な確定予定としては引っ越しの話が中心です。
+
+## 発話
+
+[Speaker 1] Is Brooklyn in New York?
+[Speaker 1] I knew a is above a bakery.
+[Speaker 1] Mom is going to call me
+[Speaker 1] Japan On the third of June.
+[Speaker 1] To drive to the furniture store.
+[Speaker 1] Is it expensive in Brooklyn.
+[User] Rent is expensive in Brooklyn.
+[Speaker 1] My aunt also lives on the 3rd Floor of that building.
+[User] My aunt also arrives on the 3rd Floor of that building.
+[User] I'm going to move on the saddle of April
+[User] 我 の目 を治 す 方法 を教えて
+[User] す 方法 を教えて

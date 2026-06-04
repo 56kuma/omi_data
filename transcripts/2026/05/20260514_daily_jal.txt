@@ -1,0 +1,14 @@
+---
+date: 2026-05-14
+tag: daily
+duration: 51
+source_id: 94a60f0a-d785-4e31-b8fd-7caf81ab3bb6
+---
+
+# JAL機内安全案内を周知
+
+Speaker 0 が、日本航空の機内アナウンスとして、搭乗客に向けた安全案内を伝えています。内容は、機内でのモバイルバッテリー等の取り扱いに関する注意で、使用の控え、頭上の収納棚への収納禁止、異常な発熱・変形・落下や衝撃があった場合はすぐ客室乗務員へ知らせるよう促しています。
+
+## 発話
+
+[Speaker 0] Good morning to all passengers. welcome aboard japan airlines flight to kokuokai airport. under the civil error basics, act in other regulations, private private banks on board is urgent, excuse me, and not disprohibited. in addition, we ask that you refrain from using them on board and do not stow them in the overhead compartment. please inform your cabinet attendant immediately if you notice an unusual heat, deformation, or if the device has been dropped or subject to impact.

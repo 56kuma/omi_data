@@ -1,0 +1,15 @@
+---
+date: 2026-02-16
+tag: daily
+duration: 54
+source_id: 1e997ba1-1a2d-4eb2-a37e-0f81e957b49a
+---
+
+# ピカチュウジェットが空の旅を案内
+
+スカイマークのピカチュウジェット搭乗案内のアナウンスです。乗客への挨拶のあと、ピカチュウと一緒に目的地へ向かうことが伝えられ、続けて客室乗務員から本日の飛行時間などの案内がある流れになっています。
+
+## 発話
+
+[Speaker 0] The door has been closed now. please be seated in your assigned seat and fasten your seat belt tight and low, ensuring it is not twisted. also, please check your child seat belt. please stow your baggage under the seat in front of you. please set your electronic devices to the mode which does not emit radio waves or turn them off. passengers seated by the emergency exits will be asked for assistance in case of an emergency situation. please refer to the exit information card in your seat pocket. thank you.
+[Speaker 0] 皆 様 、ス カイ マーク ピカ チュ ウ ジェット に ご 登 場 い た だ き ま し て 、ありがとう ござい ます 。これ より 皆 様 と ピカ チュ ウ を 乗 せ て 、目的 地 て ます 。 ピカ チュ ウ から も 皆 様 に アナ ウン ス が ある みたい です よ 。 皆 様 と 一 緒 に 空 の 旅 が で き る こ と を 楽 し み に し て い る みたい です よ。それ で は 今 日 の 飛 行 時 間 な ど に つい て 客 室 乗 務 員 から ご 案 内 飛 時 な 客 案 た し ます 。

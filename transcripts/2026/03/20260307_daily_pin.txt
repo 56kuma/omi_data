@@ -1,0 +1,14 @@
+---
+date: 2026-03-07
+tag: daily
+duration: 22
+source_id: 36466dde-8b0d-4cab-956e-d80042c0d5fc
+---
+
+# 搭乗前の写真ダウンロードとPIN注意喚起
+
+会話では、搭乗後は写真をダウンロードできなくなることと、PIN を忘れないよう注意する必要があることが説明されている。搭乗前に写真データを端末に保存し、PIN 管理を徹底するよう促している内容。
+
+## 発話
+
+[Speaker 3] Take clean You will not be able to download the photos after boarding. You forget your PIN.

@@ -1,0 +1,14 @@
+---
+date: 2026-02-07
+tag: daily
+duration: 70
+source_id: 7f9a8928-5cb2-411f-8497-881498f8269d
+---
+
+# 自己紹介に関する質問
+
+年齢、居住地、職業、長期的な目標、今月の目標、そして今日の予定について相手に尋ねる自己紹介・インタビュー形式の質問が並んでいる。
+
+## 発話
+
+[Speaker 99] How old are you? Where do you live? What do you do for work? What is your long-term goal? What are your goals this month? What do you have planned for today?

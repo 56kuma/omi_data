@@ -1,0 +1,15 @@
+---
+date: 2026-05-28
+tag: misc
+duration: 41
+source_id: 56a72e6a-6700-4f3c-b2d7-f27ca2af5145
+---
+
+# 短い挨拶を交わす
+
+Speaker 0 と Speaker 1 が短く挨拶を交わし、フランス語のような言い回しを含む軽い会話をしています。内容は非常に断片的で、具体的な議題や予定、行動依頼は確認できません。
+
+## 発話
+
+[Speaker 0] お やす み ま な ちゃん pleasure, le jour.
+[Speaker 1] Le le jour.

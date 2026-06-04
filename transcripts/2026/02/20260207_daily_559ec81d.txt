@@ -1,0 +1,23 @@
+---
+date: 2026-02-07
+tag: daily
+duration: 100
+source_id: 559ec81d-2028-4df6-b5c9-4992e47e3c27
+---
+
+# 自己紹介と今月・今日の目標
+
+ユーザーは35歳で日本在住の組み込み系エンジニア。長期目標として体重を減らして健康になることを掲げており、今月の具体的な目標は体重を5キロ落として健康になること。今日の予定は銭湯に行ってゆっくり過ごすこととしている。
+
+## 発話
+
+[Speaker 99] How old are you?
+[User] 私は35歳です。
+[Speaker 99] 私は35歳です。 Where do you live?
+[Speaker 99] 私は 日本に住んでいます What do you do for work?
+[User] エンジニアをしています
+[Speaker 99] 私は組み 込み系のエンジニアをしています What is your long-term goal?
+[Speaker 99] 私の長期目標は 体重を What are your goals this month?
+[User] 5キロ落として健康になるこです
+[Speaker 99] 私の今月のゴールは 体重を1キロ落とすことです What do you have planned for today?
+[User] 私の今日の計画は 銭湯に行ってゆっくりするです

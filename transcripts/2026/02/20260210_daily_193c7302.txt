@@ -1,0 +1,16 @@
+---
+date: 2026-02-10
+tag: daily
+duration: 33
+source_id: 193c7302-3372-41ba-98e6-253b82a535d0
+---
+
+# 車内アナウンスの多言語案内
+
+電車内アナウンスの内容が日本語と英語で話されている様子が記録されている。日本語では「電車は横北店大舌行き」「グリーン車は4号車と5号車」「グリーン車の利用にはグリーン券が必要」といった案内があり、英語でも同様に「This is a ... line train」「Green cars are car number four and number five」「A green car ticket is required in the green car」と乗客向けの案内が行われている。次の停車駅に関するアナウンスも含まれているが、駅名の音声認識は一部不正確である。
+
+## 発話
+
+[Speaker 6] Quando 電車 は 横 北 店 大舌 行き です。 グ リーン 車 は 四 号 化 と 五 号 家 です。 グ リー サ をご 利用 度 さえ には
+[Speaker 6] This is a Ocoska mine transport, all in Green cars are car number four and the number five. A green car ticket is required in the green car.
+[Speaker 6] The next kitchen is o six e.

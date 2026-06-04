@@ -1,0 +1,25 @@
+---
+date: 2026-03-05
+tag: misc
+duration: 939
+source_id: 8f94cd31-4e62-4157-89ed-739b879dc662
+---
+
+# イヤホン接続音声と店内アナウンスの記録
+
+Bluetoothイヤホンの接続・切断音声アナウンスが何度も流れており、その合間に回転寿司チェーンと思われる店内放送の宣伝ナレーションが録音されている。宣伝では、京都発の海鮮ちらし（マグロ、とろけるサーモン、いくらなど）を推しつつ、「ご自宅で」「ご家族と分かち合って」といった表現で購入を促している。会話や予定調整などは含まれておらず、カレンダーに登録すべき具体的な予定は見当たらない。
+
+## 発話
+
+[Speaker 0] ヘ ウェ ン Bluetooth connected.
+[Speaker 0] Maximum value
+[Speaker 0] Bluetooth disconnected.
+[Speaker 1] Bluetooth connected.
+[Speaker 2] 京 足 る 自 慢 の 会 鮮 チ ラ シ。 ン のア プリ また に シ フ ック の ぜひ ご 自 宅 で、 絶対 満足 させ ば
+[Speaker 2] 。 この輝 き。 京 タル 自 慢 の海 鮮 チ ラ シ、 本日 も 絶 好 調 です。 マ グロ、 と ろ ける サ ーモ ン、 いくら も た っぷり。
+[Speaker 2] 口 食べ れば 笑顔 にな っちゃ います よ。 こ の感 動 ぜひ ご 家族 と 分か ち 合 ってください。 すぐ 決 闘。 し ん こ せ。 最高 の一 品 が ス シ ローの情 熱 が 詰 まった 花 火 です。 見て ください。 このメ タ のツ ヤ と 輝 き。 に入 れた 瞬 間に拭 き ぐ ろの旨 味 と サ ーモ ンの あまり。 ってください。 このネ タ の つ や とか が や き。 hearing,
+[Speaker 0] Bluetooth connected. Bluetooth disconnected.
+[Speaker 0] Bluetooth connected.
+[Speaker 0] タ の つ や と 輝 ち Bluetooth connected.
+[Speaker 0] Bluetooth disconnected.
+[Speaker 0] Bluetooth connected.

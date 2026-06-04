@@ -1,0 +1,14 @@
+---
+date: 2026-03-17
+tag: daily
+duration: 28
+source_id: 78fd53df-b562-4e4c-bb53-31ef518fb45d
+---
+
+# 駅構内アナウンスによる乗り換え案内
+
+電車内または駅構内での自動アナウンスの内容で、次の停車駅で左側のドアが開くこと、東海道線・横須賀線・JCライン（おそらく横浜線や湘南新宿ライン等を指す英語案内）の乗り換えが可能であることを日本語と英語で案内している。特定の会話や意思決定は行われていない。
+
+## 発話
+
+[Speaker 0] En nada 折 れ 口 は 左 間 です。 新 幹 線、 東 海道 線、 四 線 はお 乗り 換 です。 The next piece is しながら j y five. The doors on the left side will open. Please change it for the inbound vent the Tokaido Line, the Yokosuka Line, and the JC Line.

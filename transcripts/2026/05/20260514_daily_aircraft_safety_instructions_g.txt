@@ -1,0 +1,14 @@
+---
+date: 2026-05-14
+tag: daily
+duration: 22
+source_id: 45943709-8519-4b56-a0b8-4990aa1cf9f1
+---
+
+# Aircraft Safety Instructions Given
+
+A brief announcement instructs passengers to move quickly away from the aircraft after disembarking and to review the safety instructions provided. It ends with a standard wish for a pleasant flight.
+
+## 発話
+
+[Speaker 0] Other passengers after sliding down. move quickly away from the aircraft. please review the safety instructions we've led. we wish you a pleasant find.

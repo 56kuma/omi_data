@@ -1,0 +1,21 @@
+---
+date: 2026-03-17
+tag: daily
+duration: 234
+source_id: 749f3f8f-2941-4b35-9e3e-62a41d617d06
+---
+
+# 機内安全アナウンスと避難時の注意事項
+
+会話は主に航空機内の安全アナウンス内容に関するもので、禁煙の厳守、電波を発する電子機器の使用制限、酸素マスクの装着方法、救命胴衣の位置と装着・膨らませ方、着水・衝撃に備える姿勢、そして緊急脱出時には手荷物を持たないことやハイヒール等で滑り台（スライド）を破損させないことといった、標準的なフライト安全指示が断片的に述べられている。
+
+## 発話
+
+[Speaker 0] Yeah. Can I get that on the Sprite? According to the lady, please come in we may have some chime in a sandwich. Please check your cell phones.
+[Speaker 1] いい え です smoking is strictly prohibited on this flight.
+[Speaker 1] 電 波 を発 する 状態 の 電子 機 器 は 使用 でき ませ If oxygen masks appear, place the mask around your and head.
+[Speaker 1] Shawmini に 備 える 姿勢 を取り Your life vest is located under or beside your seat.
+[Speaker 1] Tighten the strain.
+[Speaker 0] 手を 引いて 膨 ら ませ ます。 behind you.
+[Speaker 1] Leave your baggage when you evacuate.
+[Speaker 0] 荷 物 や ハイヒ ール で スライド が 止 まる で、 使え なくなる 恐 れ があります。 damage the slide.

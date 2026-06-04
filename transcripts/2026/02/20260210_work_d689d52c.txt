@@ -1,0 +1,14 @@
+---
+date: 2026-02-10
+tag: work
+duration: 4
+source_id: d689d52c-c45a-4db1-b599-7b88d1ac41bf
+---
+
+# 医療会話の短いメモ的発話
+
+ごく短い英語の発話で、おそらく医療・処方に関する内容が含まれているが、文法的・語彙的に不明瞭で、具体的な文脈や人物・日時は特定できない。「16」「dose」「breast size」「change」などの単語から、投薬量やサイズ調整などに言及している可能性があるが、詳細は判然としない。明確なタスク指示や予定は読み取れない。
+
+## 発話
+
+[Speaker 0] 16. The dose of the breast size is okay. Please change your doors to Shauna Kijikumai.

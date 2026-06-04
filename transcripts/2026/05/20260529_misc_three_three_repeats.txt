@@ -1,0 +1,15 @@
+---
+date: 2026-05-29
+tag: misc
+duration: 26
+source_id: aa6c6769-71bd-465e-83f0-f1887301754b
+---
+
+# Three Three Repeats
+
+Speaker 0 simply repeats “three three there” and then “three three,” with no additional context or actionable discussion.
+
+## 発話
+
+[Speaker 0] Three three there.
+[Speaker 0] Three three.

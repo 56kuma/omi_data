@@ -1,0 +1,15 @@
+---
+date: 2026-03-17
+tag: misc
+duration: 1
+source_id: 3341203f-dfd0-438b-9c6c-2d2dfd2d33e2
+---
+
+# 断片的な発話
+
+「これ が」「The same that's it」という断片的な発話のみで、明確な話題や文脈は読み取れませんでした。
+
+## 発話
+
+[Speaker 0] これ が
+[Speaker 0] The same that's it

@@ -1,0 +1,20 @@
+---
+date: 2026-02-11
+tag: daily
+duration: 432
+source_id: 701ca702-0619-472b-91ce-a3b5e01a19ba
+---
+
+# 電車車内アナウンスの多言語ガイド
+
+電車内または駅構内で流れる車内アナウンスのような内容が、日本語と英語で断片的に記録されている。荷物を棚に置く案内や、電車が入線するため注意を促すメッセージ、ドアの開閉位置に関する英語アナウンス（左側のドアが開く旨）などが含まれているが、特定の人物同士の会話や今後の予定・タスクに関する具体的なやり取りはない。
+
+## 発話
+
+[Speaker 0] お っそ り でも 多く のお 客 様 がお 決 まり にな れます よ。 お 荷 物は 編み棚 に 置いて いただく か ギ ガ ゾ ウ に 寄 せて いただき
+[Speaker 0] 南 部 線。 撮影 していた滝 川 ゆ き です。 This is an overline train for Tachikawa.
+[Speaker 0] You need be careful of the closing tour.
+[Speaker 0] こ の先 電車 が入 れます ので ご 注意 ください。 私 のお 客 様は鶴 川 や 鉄 道
+[Speaker 0] JN two. The doors on the left side were open.
+[Speaker 0] Day end three. The doors on the left are well open.
+[Speaker 0] N four.

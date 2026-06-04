@@ -1,0 +1,15 @@
+---
+date: 2026-02-12
+tag: misc
+duration: 1
+source_id: ce5c7660-ff89-4efa-a944-b40816fb7989
+---
+
+# 積み重ねの大切さと解錠通知
+
+「積み重ねは大事」といった前向きな発言のあとに、英語で「Your door has been unlocked.」という解錠通知が続く短い内容です。会話というより、ひとことの意気込みとシステム通知が並んだ断片的な記録です。
+
+## 発話
+
+[Speaker 0] 積み 重 ね は 大 事 です から ね 絶 対 私 も フリー
+[Speaker 0] Your door has been unlocked.

@@ -1,0 +1,36 @@
+---
+date: 2026-02-08
+tag: work
+duration: 465
+source_id: 84c2b750-f3c4-4f7f-8b88-fd05711000e4
+---
+
+# 英語フレーズ練習用の短文音声
+
+複数の話者が、英語のごく短いフレーズや単語を繰り返し発音している音声の文字起こしと思われる。内容としては「I can't find my passport.」「My bird doesn't eat corn.」「I'd like to open a bank account today.」「I have to send this package today.」「I have fifty dollars.」といった日常会話やビジネス、買い物などの基本文が中心で、一部単語や発音が崩れている箇所もある。全体として、英会話学習や発音練習のための教材音声の一部と考えられる。具体的な予定や約束、日付を伴うイベントの言及はなく、カレンダーに登録すべき情報は含まれていない。
+
+## 発話
+
+[Speaker 0] 14.
+[Speaker 1] Chemist Oh, no. I can't find my passport.
+[Speaker 2] Oh, no. I can't find my passport.
+[Speaker 1] My bird doesn't eat corn.
+[Speaker 1] My bird doesn't eat corn. My bird
+[Speaker 0] doesn't eat corn.
+[Speaker 1] But Business. I would like to open a bank account today.
+[Speaker 2] I'd like to open a bank account today. I drag to open plank.
+[Speaker 0] Did it know? The ant Geography.
+[Speaker 0] Online. Swim. With drunk.
+[Speaker 0] Important.
+[Speaker 1] 16. 13. Corn, 15.
+[Speaker 0] I have to send this package today.
+[Speaker 2] Package.
+[Speaker 1] I have fifty dollars
+[Speaker 1] How much this is. The box.
+[Speaker 2] Handbag.
+[Speaker 1] Univasty My doesn't eat corn.
+[Speaker 2] Married both.
+[Speaker 2] Martti's pass.
+[Speaker 2] Marit.
+[Speaker 2] Marie is back.
+[Speaker 2] University

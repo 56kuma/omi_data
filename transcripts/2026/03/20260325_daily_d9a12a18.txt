@@ -1,0 +1,19 @@
+---
+date: 2026-03-25
+tag: daily
+duration: 210
+source_id: d9a12a18-4a63-4984-836a-998bae9aa239
+---
+
+# ワンマン運転電車の車内アナウンス
+
+内容は電車内の自動・車掌アナウンスと思われる英日混在の文字起こしで、ワンマン運転であること、まもなく発車すること、手すり等におつかまりくださいという安全喚起、ドアが左側に開くこと、乗り換え案内などが含まれている。固有名詞や駅名は音声認識の誤変換が多く、正確な路線・駅は特定しにくいが、全体としては通常のローカル列車の案内内容となっている。
+
+## 発話
+
+[Speaker 1] 南 無 線、 白 衣 ステ イ 社、 客 車 は This is another line train for Pachikanla.
+[Speaker 1] この 電車 は ワ ンマ ン 運転 です。 馬 場 だけ 発 車 いたします。 This is the number one train floor, touch Kanwa. There's no cabin crew aboard the train.
+[Speaker 1] Driver only. This train will be departing soon.
+[Speaker 1] 私 のお 客 様は栗 川 や 手 す り にお 捕 まり ください。
+[Speaker 1] 初 駅 電車、尺 川 市 です。 このデ ータ は ワ ンマ ン ウ ッド フェ ス。
+[Speaker 1] The doors on the left is highway over. Please change your floor to Number 94 at Stonewall and

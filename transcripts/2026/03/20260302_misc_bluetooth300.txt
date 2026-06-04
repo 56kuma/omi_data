@@ -1,0 +1,16 @@
+---
+date: 2026-03-02
+tag: misc
+duration: 103
+source_id: 92e50569-a938-43b2-9fed-3330a189a3da
+---
+
+# Bluetooth接続の不具合と300円の部品購入
+
+Bluetoothが切断されたという通知のあと、300円で何かの部品を付けなければならないという発言があり、接続トラブルへの対応や簡単な修理・購入が話題になっている。
+
+## 発話
+
+[Speaker 1] Bluetooth
+[Speaker 1] Bluetooth disconnected.
+[Speaker 0] 三百 円 で こ の ぶ ち を つけ な きゃ

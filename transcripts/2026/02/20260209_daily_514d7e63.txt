@@ -1,0 +1,17 @@
+---
+date: 2026-02-09
+tag: daily
+duration: 203
+source_id: 514d7e63-a8b0-4b97-9741-fbb405099382
+---
+
+# 電車内アナウンスでの品川到着案内
+
+電車内での自動アナウンスと思われる音声が記録されている。日本語と英語が混在しており、田川や谷方面行きなど行き先案内、次は品川であること、ドアは左側が開くこと、東海道線・横須賀線・京急線への乗り換え案内などが含まれている。会話というよりは車内放送の断片であり、特定の人物同士の対話や意思決定は行われていない。
+
+## 発話
+
+[Speaker 0] 田 川 のご 協 力を お願いいたします。
+[Speaker 2] 谷 方 面 行き が まいります。 危ない ですから、 黄色 い 天 地 袋 まで 収 まり
+[Speaker 1] Shebu will soon arrive on her track number two forty four seats.
+[Speaker 0] 次は 死 な 場、 死 な 場、 ポ レ ンチ は 左 側 です。 イン ターン 生、 東 海道 線、 横 須 賀 線、 京 急 線 はお 乗り 換 です。 The next issue is 品 川。 j y 25, The doors on the left side will open. Please change your door, the 2,000, the Tokaido line, the Ocoska line, and the eight

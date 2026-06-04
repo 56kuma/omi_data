@@ -1,0 +1,18 @@
+---
+date: 2026-02-16
+tag: daily
+duration: 144
+source_id: d99f9259-ab9c-4786-a067-5f59a32b64e4
+---
+
+# 京急線での羽田空港行き車内アナウンス
+
+京急線の羽田空港行き電車内アナウンスの書き起こし。羽田空港行きの快速特急であること、国際線利用者は羽田空港第3ターミナルで下車すること、国内線および一部国際線（第1・第2ターミナル）利用者は終点まで乗車することが案内されている。また、大きな荷物（スーツケースなど）を持つ乗客に対し、他の乗客への配慮を求め、快適な車内環境への協力を呼びかけている。日本語と英語で案内が行われている。
+
+## 発話
+
+[Speaker 1] Onde que não? 請 求 性を ご 利用 ください まして、 ありがとうございます。 この 電車 は 配 送、 羽 田 空港 行き です。 京 急鎌 座 です。 Thankyoufor taking taking the JQ line. This is the Kaiko Limited Friend, Bound For Haneda Airport. This change or install bag makes you
+[Speaker 1] Terminals 1 And 2, our final stop. Ationeers taking international flight, Please get off at Canada Airport Terminal 3. Passengers taking domestic flights and some international volume airway flights. Please stay on until the been come at that, K K 11.
+[Speaker 1] This case, など ウォ ール
+[Speaker 1] 皆 様が 快 適 にお 過ご し 頂 きます よう ご 省 力を Passengers with suitcases or other large belongings. Please be considerate of other passengers to ensure that everyone can enjoy a comfortable journey.
+[Speaker 1] Thank you for your cooperation.

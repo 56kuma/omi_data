@@ -1,0 +1,22 @@
+---
+date: 2026-05-24
+tag: work
+duration: 245
+source_id: 23261785-b26e-4697-8ede-280e68fa4fce
+---
+
+# NDI 送信を完了
+
+会話では、NDIの対応について短いやり取りがあり、作業はすでに完了したことが確認されました。全体としては、進捗の確認と軽い合いの手を交えながら、ユーザーが「It's done.」と締めています。
+
+## 発話
+
+[Speaker 3] 良かった。 良かった。
+[Speaker 3] What's up?
+[Speaker 3] NDI.
+[User] 上げる。
+[Speaker 3] 早い
+[Speaker 3] This
+[結構] 今年 が すごく ない ？
+[User] let's rock.
+[User] It's done.

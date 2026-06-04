@@ -1,0 +1,15 @@
+---
+date: 2026-03-25
+tag: memo
+duration: 126
+source_id: eb02a4a0-6836-4208-a6af-d9d0b572530f
+---
+
+# 外来診療での次患者呼び出しメモ
+
+医療現場と思われる場面で、話者が次の患者としてSara Taki（サラ・タキ）を呼び出している。「The next patient is Sara Taki. J k six k」という発話から、患者識別のためのIDや受付番号を読み上げている状況と推測されるが、会話は短く他の文脈や今後の予定・行動は示されていない。
+
+## 発話
+
+[Speaker 0] So, yes, otra casita
+[Speaker 0] The next patient is Sara Taki. J k six k

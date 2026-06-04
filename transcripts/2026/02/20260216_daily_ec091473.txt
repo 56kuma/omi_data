@@ -1,0 +1,19 @@
+---
+date: 2026-02-16
+tag: daily
+duration: 151
+source_id: ec091473-f5d2-4768-9cac-40fc121b1e9b
+---
+
+# 空港ターミナル間無料連絡バスの車内アナウンス
+
+空港内の無料連絡シャトルバスでの車内アナウンス内容。第3ターミナル行きの無料連絡バスであること、第1ターミナルにも停車することが案内されている。第1ターミナルでは日本航空やスカイマーク、スターフライヤーなど各社の利用客はここで降車するように伝えられ、降車前に手荷物の確認を促す注意喚起も行われている。第3ターミナルは国際線ターミナルであり、そのまま乗車を続けるよう案内がある。
+
+## 発話
+
+[Speaker 1] お 深 まり ください。 この 。 お 待 た せ いたしました。 こ の場所 は大 地 カ ーミ ナル 県 第 三 タ ーミ ナル 行き 無料 連絡 日本 ドラ ッグ ウォ ッシャ ー 航 空、 サイマ ーク、 サ ンフライヤ ー お よ び サ ンフライヤ ーと ALA
+[Speaker 1] This is the free shadow bus for Terminal 3. We'll do one.
+[Speaker 3] Next, we will stop at Terminal 1. Please get off here.
+[Speaker 1] For Japan Airlines.
+[Speaker 3] Japan transfer Air, SkyMark, Starfly and Starflyer a n a Coltshare Flyer. Impression at Terminal 1. Please be sure you have all your belongings with you before getting off. My
+[Speaker 0] 鎮 就 一 会 要 一 方 自 己 ， 1 タ ーミ ナル に 到着 します。 第3 タ ーミ ナル 国際 線 このまま では おっしゃ ってください。

@@ -1,0 +1,21 @@
+---
+date: 2026-03-07
+tag: daily
+duration: 98
+source_id: 46563628-62c2-4b4b-bd4e-2218c5378ce6
+---
+
+# カラフルな人形のお宝鑑定ごっこ
+
+話者たちがテレビ番組風に、人形を歴史的価値のあるお宝として鑑定する寸劇を行っている。Annaが百貨店で昨日買ったカラフルでかわいい人形とオレンジ色の帽子について英語で説明し、それが今一番のお気に入りのおもちゃだと語る。鑑定役の話者は、それは歴史的遺産ではなく単なるおもちゃだと結論づけ、大切に遊ぶよう勧めて会話を締めくくる。
+
+## 発話
+
+[Speaker 0] 始める 前に お きましょう。 ト イ。
+[Speaker 1] Top colorful.
+[Speaker 0] 本 日の 依頼 人は 人 形 の この 鮮 やかな 人 形 が もし か すると 歴史 的 価値 を 傑 作 かもしれません。 それでは この 人 形 について 詳しく お話 を 聞か せて ください。 。
+[Speaker 1] Hello,mynameisAnna. I bought it yesterday at the department store. I bought it yesterday at the department store.
+[Speaker 1] The doll is very colorful and cute. The doll is very colorful and cute.
+[Speaker 1] I also bought an orange hat for my doll. This doll is my favorite toy now. I love it so much.
+[Speaker 0] まあ 歴史 的 遺 産 でも なければ ただ のお も ちゃ ということですね。 どうぞ 大切 に 遊 んで ください。
+[Speaker 0] 以上 オ ース カー のお 宝 買って い でした。 それでは また 次回 お 会いしましょう。

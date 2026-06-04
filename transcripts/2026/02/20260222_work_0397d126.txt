@@ -1,0 +1,43 @@
+---
+date: 2026-02-22
+tag: work
+duration: 301
+source_id: 0397d126-cc0b-4202-8bbf-b46fad551954
+---
+
+# 英語フレーズで動物園と食事シーンを学ぶ
+
+このコンテンツは、学習者向けの英語教材の一部で、Speaker 0 が日本語で導入や解説を行いながら、複数の短い英会話フレーズを提示している。前半では「animals」「lion」「snake」「elephant」「forest」といった語彙の紹介のあと、キリンやサル、ライオン、ヘビなどを見た感想を述べる動物園の会話があり、「It is huge」「long tails」「scary」「dangerous」などの表現を練習している。その後、日本語で「動物園で人間は驚くが、話者にとっては普通の隣人」「怖い・危険と言う前に敬意と距離が大事」といったコメントで締めくくられる。
+後半では「We are making dessert together.」「We are eating dinner together.」など、食事やデザート作りの場面、「Let's eat turkey and cake.」「I need to buy cheesecake.」といったフレーズ、および「many people」「red, yellow」「Tom, you need to buy a map.」「The museum is really far. You need to take a taxi.」など、色・数量・移動手段・買い物指示に関する基本文を繰り返し練習している。複数のスピーカーが同じ文を繰り返す構成から、リスニングと発音練習を目的とした音声教材であると考えられる。
+
+## 発話
+
+[Speaker 0] フォ ル スタッフ の人 間 入 門 の時間 へ よう こそ
+[Speaker 0] 始める 前に 次の単 語 を 覚えて お こう。 animals
+[Speaker 0] Lion. Snake, elephant,
+[Speaker 0] Forest です。 今回は 動物 について 話 している 二 人を
+[Speaker 0] Wow. It is huge, but that giraffe has a very long Yes.
+[Speaker 1] And those monkeys have long tails too.
+[Speaker 1] Yes, and those monkeys have long tails.
+[Speaker 0] I like animals, but that lion is scary. I like animals, but that lion is scary.
+[Speaker 1] Me too. Oh, no. Is that snake dangerous?
+[Speaker 0] No, it is not. But I don't want to get too close.
+[Speaker 0] 人間 は 動物 園 で びっくり する けど 僕 にとっては 普通 の 隣 人たち だよ 怖い とか 危険 だとか 言う 前に 敬 意 を持 っ 距離 を 保 て ば 問題 ない。 今日 のフ ル スタッフ の人 間 入 門 は ここまで。 じゃあ また。
+[Speaker 0] We are making dessert together.
+[Speaker 2] We are making dessert together.
+[Speaker 1] Many people.
+[Speaker 1] Red, yellow,
+[Speaker 2] Red, yellow.
+[Speaker 0] Let's eat turkey and cake.
+[Speaker 1] Do you take many photos?
+[Speaker 2] Do you take many eager photos?
+[Speaker 0] Why is that building yellow?
+[Speaker 2] The museum is really far. You need to take a taxi.
+[Speaker 3] We are eating dinner together.
+[Speaker 3] Our eating dinner together.
+[Speaker 1] Tom, you need to buy a map.
+[Speaker 3] Turkey. January. Meat month.
+[Speaker 3] Cheese cake.
+[Speaker 3] Pierre,
+[Speaker 2] Cake. Hot dog Caico You need to buy Cheesk Wright
+[Speaker 2] I need to buy cheesecake.
