@@ -1,0 +1,16 @@
+---
+date: 2026-06-08
+tag: misc
+duration: 2
+source_id: 80019f5e-6463-4d4f-9355-48803c95b519
+---
+
+# Manada potatoes
+
+短い発話があり、「No.」に続いて「Manada potatoes」と述べられているが、文脈や具体的な話題はほとんど示されていない。
+
+## 発話
+
+[Speaker 0] Look.
+[Speaker 0] No.
+[Speaker 0] Manada potatoes.

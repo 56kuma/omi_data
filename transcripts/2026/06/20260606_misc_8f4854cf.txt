@@ -1,0 +1,14 @@
+---
+date: 2026-06-06
+tag: misc
+duration: 1
+source_id: 8f4854cf-27e3-4fd4-aa33-5fd4b7f7c1bc
+---
+
+# 挨拶のみで終了
+
+短い会話で、Speaker 0 が「Hola」と挨拶しただけで終わっています。具体的な話題、予定、行動項目は含まれていません。
+
+## 発話
+
+[Speaker 0] Hola,

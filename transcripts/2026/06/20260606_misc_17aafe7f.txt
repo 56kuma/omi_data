@@ -1,0 +1,14 @@
+---
+date: 2026-06-06
+tag: misc
+duration: 6
+source_id: 17aafe7f-ebe8-4795-9b95-666803a0b224
+---
+
+# 短い発話を確認
+
+会話は非常に短く、Speaker 0 が「O santo.」と発話したのみで、明確な話題や進行中の議題は読み取れませんでした。
+
+## 発話
+
+[Speaker 0] O santo.
