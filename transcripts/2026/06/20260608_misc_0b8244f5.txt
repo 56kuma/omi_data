@@ -1,0 +1,15 @@
+---
+date: 2026-06-08
+tag: misc
+duration: 76
+source_id: 0b8244f5-09d2-4ce5-a47f-cbd2e1bf8569
+---
+
+# 発言の断片
+
+短い発話が2つ記録されていますが、文脈はほとんどなく、内容の詳細は判別できません。予定や行動項目として抽出できる具体的な情報もありません。
+
+## 発話
+
+[Speaker 0] Ayy, yupancho jigai shinula.
+[Speaker 0] And i'm gonna do that.

@@ -1,0 +1,29 @@
+---
+date: 2026-06-08
+tag: misc
+duration: 2
+source_id: 40a30edb-7974-47e4-95fd-76d91d77c1ff
+---
+
+# 意味不明な短い雑談を記録
+
+複数の話者が断片的な短いフレーズを次々に発しており、会話の主題や具体的な予定、依頼事項は読み取れませんでした。内容は日本語らしき音声の書き起こしですが、文脈はほぼなく、感想や呼びかけのような断片が中心です。
+
+## 発話
+
+[Speaker 0] Yeah, manatya.
+[Speaker 1] Minam is syru.
+[Speaker 0] Okay, we saw you on the minor side.
+[Speaker 2] Kawaii manatya.
+[Speaker 3] Natha kaway no manatya.
+[Speaker 4] Inamusya.
+[Speaker 5] Kawaii ni manatya.
+[Speaker 6] Bra bra the king.
+[Speaker 7] Uto sandasyo. uto sandyasi manatya.
+[Speaker 8] Uto sandasyo.
+[Speaker 9] Uta cha
+[Speaker 0] Yes. yep. yep. yep.
+[Speaker 1] Yep. yep. yep. yep.
+[Speaker 2] Maybe can i just call it a lot of the few tools and you tool.
+[Speaker 3] What do you understand this view?
+[Speaker 0] Oh c'est interest.

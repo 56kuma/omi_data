@@ -1,0 +1,18 @@
+---
+date: 2026-06-08
+tag: misc
+duration: 42
+source_id: 4b9ecd57-d85c-4c11-8dce-a19d1c7b3745
+---
+
+# 見学前後の会話
+
+見学の前後に交わされた短い会話で、チャンネルへの挨拶らしき発言と、色（colour）についての言及、見学に関する文脈が含まれている。具体的な予定や明確な行動指示は読み取れない。
+
+## 発話
+
+[Speaker 0] A tchau tá aí de novo do canal.
+[Speaker 0] We're in the quranic colour.
+[Speaker 0] 見 学 前 後の 会話 内容
+[Speaker 1] It's colour.
+[Speaker 0] Lokugatu hirtukani ken gakunita, yamukajoga kiniste, justy.

@@ -1,0 +1,15 @@
+---
+date: 2026-06-08
+tag: work
+duration: 70
+source_id: da12143d-238e-4de9-97d3-bfbc1f7ccaa0
+---
+
+# Fast office
+
+発話は非常に短く、冒頭で「Come on at you. hi. hi. hi. hi.」と繰り返し挨拶のような表現があり、その後に「Fast office」と述べられています。文脈は不明瞭ですが、オフィスに関する簡単な言及が中心です。
+
+## 発話
+
+[Speaker 0] Come on at you. hi. hi. hi. hi.
+[Speaker 0] Fast office.

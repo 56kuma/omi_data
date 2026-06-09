@@ -1,0 +1,14 @@
+---
+date: 2026-06-08
+tag: work
+duration: 1
+source_id: c568dcf5-0059-43a6-8d32-71d9cff10d92
+---
+
+# Market Check-in
+
+Speaker 0 asks whether there is a market currently happening, but no further context or details are provided.
+
+## 発話
+
+[Speaker 0] Hello, do we have a market now?

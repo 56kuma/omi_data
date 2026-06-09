@@ -1,0 +1,16 @@
+---
+date: 2026-06-08
+tag: work
+duration: 28
+source_id: e25e199d-897d-4e97-9069-39180ac41765
+---
+
+# 雑談の一言メッセージ
+
+短い会話で、「Yo」に続いて日本語の「ましょう。」、最後に「Buzz you with these.」という断片的な発話があり、全体としては意味のまとまりが弱いカジュアルなやり取りでした。予定や明確なタスク、重要な情報は含まれていません。
+
+## 発話
+
+[Speaker 0] Yo,
+[Speaker 0] ましょう。
+[Speaker 0] Buzz you with these.

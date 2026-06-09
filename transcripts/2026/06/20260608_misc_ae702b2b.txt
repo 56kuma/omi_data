@@ -1,0 +1,15 @@
+---
+date: 2026-06-08
+tag: misc
+duration: 45
+source_id: ae702b2b-49e0-4015-bacf-9a5a36932ccf
+---
+
+# 意味不明な音声断片
+
+発話内容はほぼ判読不能で、Alexaへの呼びかけのような断片的な単語と、意味をなさない反復音声が続いています。具体的な話題、予定、依頼、行動項目は確認できません。
+
+## 発話
+
+[Speaker 0] Alexa piero de the say you know me can also sit there.
+[Speaker 0] Alexa dingeste nova yanakandi yokonin larinova yanakandi vakon litam rakon gitan vakonti gabu hof hof hof hof hof hof hof hof hof.

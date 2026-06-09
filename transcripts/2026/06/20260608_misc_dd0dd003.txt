@@ -1,0 +1,15 @@
+---
+date: 2026-06-08
+tag: misc
+duration: 120
+source_id: dd0dd003-77d6-4eff-9842-aff380283106
+---
+
+# 不明瞭な音声メモ
+
+音声認識の精度が低く、内容はほぼ判読困難です。明確に読み取れる予定、依頼、会話の主題は確認できませんでした。
+
+## 発話
+
+[Speaker 0] Genji kaivasta on a sita na yo.
+[Speaker 0] King gaku talking got his engine or carry on your

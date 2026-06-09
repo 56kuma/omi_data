@@ -1,0 +1,15 @@
+---
+date: 2026-06-08
+tag: misc
+duration: 104
+source_id: edd7eab3-15d8-42dd-acd4-b8ea6053f32f
+---
+
+# 洗濯機を回している話
+
+洗濯機を回している最中の発話があり、洗濯に関する短い断片的な会話内容のみが含まれています。
+
+## 発話
+
+[Speaker 0] 洗濯 機 を 回 し 回 し いて、
+[Speaker 0] Total ne

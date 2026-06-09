@@ -1,0 +1,15 @@
+---
+date: 2026-06-08
+tag: work
+duration: 23
+source_id: 2ee601e4-93e4-4787-8df7-66276d0ef65b
+---
+
+# モデル改善を依頼
+
+ユーザーは「これ」に合わせてモデルを改善するよう依頼しており、SDGs関連の文脈を示す「エスディーエ力」といった語が含まれていますが、具体的な内容や作業指示の詳細は不明です。
+
+## 発話
+
+[User] これ に合わせて モデル を改 善 して エスディ ー エ 力。
+[Speaker 0] What sannos agyobades? what tosannos agyobades yimanachan?
