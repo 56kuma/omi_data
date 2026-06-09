@@ -1,0 +1,14 @@
+---
+date: 2026-06-09
+tag: misc
+duration: 0
+source_id: 3a855e13-cd21-4fcf-aa4f-6df2b789b93d
+---
+
+# 短い発話を確認
+
+Transcript には「Junt.」という短い発話のみが含まれており、具体的な議題や予定、行動項目は読み取れませんでした。
+
+## 発話
+
+[Speaker 0] Junt.

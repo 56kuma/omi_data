@@ -1,15 +1,15 @@
 ---
 date: 2026-06-08
 tag: misc
-duration: 63
-source_id: c9f56294-bcd0-4cc6-b375-c1e771adf7db
+duration: 26
+source_id: 8ea8d4de-4ab9-46ec-8158-718622d70c76
 ---
 
-# Alexa 音声入力の一部
+# Alexaへの音声指示の断片
 
-音声入力の断片が記録されており、話者が「Alexa」と呼びかけているほか、前後の文脈はほとんど判別できません。具体的な予定、行動項目、重要な内容は読み取れませんでした。
+Alexaに対して話しかけている短い断片で、何らかの機器や操作を開始しようとしているように聞こえるが、内容は不明瞭で具体的な予定や重要事項は含まれていない。
 
 ## 発話
 
-[Speaker 0] So i can have mamma has an easy most even button.
-[Speaker 0] Alexa.
+[Speaker 0] Alexa, sag jetzt geht es.
+[Speaker 0] Alexa, the bingo let's get axe uh paper case there.
