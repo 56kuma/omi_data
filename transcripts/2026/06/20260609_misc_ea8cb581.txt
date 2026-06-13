@@ -1,0 +1,14 @@
+---
+date: 2026-06-09
+tag: misc
+duration: 0
+source_id: ea8cb581-e021-4b5d-b38e-338f05421aaa
+---
+
+# 意味不明な単発発話
+
+短い単発発話のみで、会話の文脈や具体的な話題は判別できませんでした。日時や予定、行動項目につながる情報も含まれていません。
+
+## 発話
+
+[Speaker 0] Otto santo sampuishkanimati.

@@ -1,0 +1,15 @@
+---
+date: 2026-06-13
+tag: misc
+duration: 26
+source_id: 6b47ae03-b2bb-40ba-90a8-d29acef73bad
+---
+
+# 帰宅の報告と軽い嘆き
+
+『お家つきましたよ まなちゃん』と帰宅を伝える短いやり取りのあと、英語混じりで『O desespero（なんて絶望）』と感情を漏らしている。具体的な予定や行動は示されていない。
+
+## 発話
+
+[Speaker 0] お 家 つき ま し た よ ま な ちゃん
+[Speaker 0] O desespero

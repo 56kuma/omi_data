@@ -1,0 +1,21 @@
+---
+date: 2026-06-12
+tag: misc
+duration: 165
+source_id: 750e4829-ab87-49b9-8914-5366718336b7
+---
+
+# 放課後の用事と会話の断片
+
+放課後に忙しいという話や、紅茶を飲みたいという発話、再び来てほしいという短い会話の断片が含まれています。親指を切らしたという断片的な発言もあり、全体としては放課後の雑談や用事のやり取りが中心です。
+
+## 発話
+
+[Speaker 0] し た
+[User] after school.
+[User] Sorry. I'm busy after school.
+[User] I'd like a cup of tea. I'd like a cup of tea. Ay uterai ka kapuptik.
+[Speaker 0] 親指 も 切 ら し て ね ー
+[User] Biretti, please come again.
+[User] Guide, bang kyber,
+[User] Si. God brand godfriend A girl. Front, all they leave in Tokyo ten years ago.

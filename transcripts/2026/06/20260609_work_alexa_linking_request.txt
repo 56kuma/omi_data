@@ -1,0 +1,14 @@
+---
+date: 2026-06-09
+tag: work
+duration: 4
+source_id: 65748180-3d44-4ccb-8616-1bf44aebad47
+---
+
+# Alexa Linking Request
+
+Speaker 0 says, "Good. alexa, link it," indicating a brief request to connect or link Alexa to something, but no further context or actionable details are provided.
+
+## 発話
+
+[Speaker 0] Good. alexa, link it.

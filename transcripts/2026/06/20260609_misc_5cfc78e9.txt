@@ -1,0 +1,16 @@
+---
+date: 2026-06-09
+tag: misc
+duration: 42
+source_id: 5cfc78e9-f6b8-4017-8350-6e57f154c556
+---
+
+# 会話の冒頭で内容を確認中
+
+会話の冒頭で「もう一度何をしているか見てみよう」と話し、続いて話題の名前を述べかけていますが、全体としては断片的で内容は明確ではありません。具体的な予定や行動項目は読み取れません。
+
+## 発話
+
+[Speaker 0] Let us have another look at what we do.
+[Speaker 1] It's called the
+[Speaker 0] Oh c'est mon des soeurs we can see manatyamu anacham tiki mas the kawaii natam antira shayamasai otto sangva chotto toyeni ite kurukara natete manatyan

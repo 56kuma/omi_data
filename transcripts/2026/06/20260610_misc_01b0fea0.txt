@@ -1,0 +1,14 @@
+---
+date: 2026-06-10
+tag: misc
+duration: 132
+source_id: 01b0fea0-06ed-4dd2-af45-6ba5074196ee
+---
+
+# 赤側が翌日に開く
+
+Speaker 1 は、赤い側が開放されるのは翌日だと述べています。会話は非常に短く、具体的な予定や参加者、追加の文脈は示されていません。
+
+## 発話
+
+[Speaker 1] the red side will open. The next day

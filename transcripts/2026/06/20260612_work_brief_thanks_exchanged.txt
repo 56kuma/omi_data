@@ -1,0 +1,14 @@
+---
+date: 2026-06-12
+tag: work
+duration: 1
+source_id: d2a43591-7edf-4e51-9fde-a5ac8e3c50ed
+---
+
+# Brief Thanks Exchanged
+
+A very short exchange where Speaker 0 responds politely with “No problem” and thanks the other person.
+
+## 発話
+
+[Speaker 0] No problem. thank you.

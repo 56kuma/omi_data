@@ -1,0 +1,17 @@
+---
+date: 2026-06-09
+tag: misc
+duration: 47
+source_id: dbc12ae8-99a2-48b6-93b4-c203ab82cc90
+---
+
+# Alexa Mentioned In Brief Exchange
+
+短い会話で、複数の話者が「Alexa」と呼びかけたり繰り返したりしていますが、具体的な議題や合意事項はほとんどなく、最後に一人が別言語らしき発話をしています。
+
+## 発話
+
+[Speaker 0] Alexa.
+[Speaker 1] Alexa, the big shot of the stair. alexa.
+[Speaker 2] Alexa, leaving this lot of this yeah.
+[Speaker 3] Mam dhamma bhuttagao mokunari.

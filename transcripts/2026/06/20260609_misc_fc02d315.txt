@@ -1,0 +1,14 @@
+---
+date: 2026-06-09
+tag: misc
+duration: 22
+source_id: fc02d315-71dc-488d-a54b-39fd8a65d754
+---
+
+# 音声指示の断片を確認
+
+短い音声断片が記録されています。内容は「Alexa」に対する呼びかけのようですが、文意は不明瞭で、具体的な会話内容や予定、行動項目は読み取れませんでした。
+
+## 発話
+
+[Speaker 0] Alexa, pioru gid the intro kirokiste alexa, piorukid kokirokiste. alexa, piorukid.

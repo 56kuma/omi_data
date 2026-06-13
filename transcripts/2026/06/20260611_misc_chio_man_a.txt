@@ -1,0 +1,16 @@
+---
+date: 2026-06-11
+tag: misc
+duration: 178
+source_id: 1c002e7e-ac27-4b2e-a1f0-5badf82d62f6
+---
+
+# Chio と man a ちゃんへのおやすみの挨拶
+
+短い会話で、Chio への呼びかけのあと、暑さに触れる一言があり、最後に man a ちゃんへ「おやすみ」と挨拶している。特別な予定や行動事項は読み取れない。
+
+## 発話
+
+[Speaker 0] Chio,
+[Speaker 0] それ は そう や な 。 ピン ク 。 暑かっ た 。 う そ 。
+[Speaker 0] お や す み 、 man a ちゃん 。

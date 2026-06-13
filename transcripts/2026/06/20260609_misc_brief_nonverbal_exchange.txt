@@ -1,0 +1,14 @@
+---
+date: 2026-06-09
+tag: misc
+duration: 0
+source_id: ae0b95fa-a9b9-44f7-87f3-1442996c1116
+---
+
+# Brief Nonverbal Exchange
+
+A very short transcript containing only a nonverbal utterance (“Uh uh.”) with no clear topic, decision, or actionable details.
+
+## 発話
+
+[Speaker 0] Uh uh.

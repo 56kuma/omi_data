@@ -1,0 +1,15 @@
+---
+date: 2026-06-10
+tag: misc
+duration: 1
+source_id: 41cda446-3f46-4a26-827e-466cd62a2ba2
+---
+
+# 挨拶の短い会話
+
+内容は非常に短く、発話者が意味の取りにくい一文を述べたあと、「Hallo」と挨拶して終わっています。具体的な話題や予定、行動項目は読み取れません。
+
+## 発話
+
+[Speaker 0] Co? piorug de okirio w kiroxie.
+[Speaker 0] Hallo.

@@ -1,0 +1,15 @@
+---
+date: 2026-06-09
+tag: misc
+duration: 3
+source_id: de323fc9-67be-40b1-8fd8-87e6558c26d2
+---
+
+# Galaxyについての短い発話
+
+発話は非常に短く、話し手が「これを消せる」と述べた後、相手に対して「君がGalaxyを通過したのは知っている」といった内容の確認・認識を示しています。文脈は限定的で、具体的な予定や明確な依頼事項は読み取れません。
+
+## 発話
+
+[Speaker 0] I can turn out this one.
+[Speaker 0] So i know you passed the galaxy.

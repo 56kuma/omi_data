@@ -1,0 +1,25 @@
+---
+date: 2026-06-11
+tag: misc
+duration: 402
+source_id: 48c0855a-6085-469e-ad16-005e69cc5493
+---
+
+# Alexaで排泄記録を試行
+
+ユーザーがAlexaに対して、うんちとおしっこの記録を促す音声を試しつつ、言葉遊びのような発話を繰り返している。最後に「YouTubeを起動しています」と応答があり、Alexaが一部の指示を受け取って処理を開始した様子が見られる。
+
+## 発話
+
+[User] うん ち し た で しょ 帰り お む つ
+[User] Lictonico Licconico. Riconico, iconico, 日 こ、 こ、 日 こ、 こ、 Nico, Nico, Nico, Nico, Nico,
+[User] Yok,
+[User] アレクサ ピオ ロ グ で う ん ち を 記 録 し て アレクサ ピオ ロ グ で お し っ こ を 記 録 し て Yo.
+[Speaker 0] お 父 さ 君 です よ
+[User] Alexa, skip jj.
+[Speaker 0] お む つ 買 え ま し た よ ま あ ちゃん
+[Speaker 0] アレクサ 、電気 し て
+[Speaker 0] でっかい 座 る ぞ 。 よっ よっ よっ
+[Speaker 1] YouTube を 起動 しています。
+[Speaker 0] Haluk sağ ol, denk kesti.
+[Speaker 0] ぱ く ぱ く し て ます ね 、 わ ー ちゃん 。
