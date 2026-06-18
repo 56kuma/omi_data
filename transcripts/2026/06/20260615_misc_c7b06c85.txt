@@ -1,0 +1,14 @@
+---
+date: 2026-06-15
+tag: misc
+duration: 28
+source_id: c7b06c85-6e48-47c3-b796-e2814e0ab132
+---
+
+# 短い確認のやり取り
+
+短い会話で、Speaker 0 が「You so kimana.」に対して短く「yup. yup.」と応答しています。具体的な話題や予定、行動項目は読み取れません。
+
+## 発話
+
+[Speaker 0] You so kimana. yup. yup.

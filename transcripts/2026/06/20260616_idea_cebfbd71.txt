@@ -1,0 +1,15 @@
+---
+date: 2026-06-16
+tag: idea
+duration: 120
+source_id: cebfbd71-79c1-4e8f-9456-df58b656ad83
+---
+
+# アイデアとゲームについての短い会話
+
+発話はごく短く、アイデアを出すときの言い方や流れについて触れたあと、ゲームのような形式に関する話題へ移っています。具体的な予定、依頼、締め切りは含まれていません。
+
+## 発話
+
+[Speaker 0] So when you give us an idea, that's like it or it'll say about the day.
+[Speaker 0] So, then game like this.

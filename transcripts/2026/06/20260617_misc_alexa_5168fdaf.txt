@@ -1,0 +1,15 @@
+---
+date: 2026-06-17
+tag: misc
+duration: 86
+source_id: 5168fdaf-fc3d-4b18-b796-537a699a99e2
+---
+
+# Alexa への音声依頼
+
+Alexa に対して音声で何かを依頼している様子が記録されていますが、発話は断片的で内容は明確ではありません。最後に「I see your magic demand, yes.」とあり、音声アシスタントへの操作または認識結果に反応している場面と考えられます。
+
+## 発話
+
+[Speaker 0] Alexa, piorovide or sitko kirokuste. alexa, piyorogide, un took it.
+[Speaker 0] I see your magic demand, yes.

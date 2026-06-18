@@ -1,0 +1,17 @@
+---
+date: 2026-06-16
+tag: misc
+duration: 76
+source_id: 4f39c76f-1df9-475d-a20d-8b905f2e6d17
+---
+
+# 不明瞭な音声の会話
+
+音声認識の精度が低く、内容は断片的で判読しづらい会話です。Chicago や dog などの単語らしきものが見えますが、全体として主題や具体的な出来事は明確に特定できませんでした。
+
+## 発話
+
+[Speaker 0] Chicago has it and more than nanny cast a beautiful hazim dog and the dog with magozenka.
+[Speaker 1] Must nani cast and so it's cool.
+[Speaker 0] You tell you this kid's signal to be to the must have you and the kid and sister has only taken a kid almost killed in the moon.
+[Speaker 0] And kumadiki walla ikanato masana, but every steps and cut this stars on jujin zicanta, but as a noji can each attack. so they were some of the bony also.

@@ -1,0 +1,15 @@
+---
+date: 2026-06-16
+tag: misc
+duration: 60
+source_id: 7f2ed413-04cf-466f-8d21-dc208c0496ca
+---
+
+# 白いものだと思っていた件
+
+話者が「白いものだと思っていた」と述べたあと、会話は途切れがちで不明瞭なまま「bye」や「cut of school」のような断片的な発話が続いています。具体的な予定、依頼、結論は読み取れず、内容全体としては短い雑談または聞き取りづらい会話です。
+
+## 発話
+
+[Speaker 0] I thought it's a white one.
+[Speaker 0] Okay, bye so you need to let me took a dip in the middle of my cut of school.

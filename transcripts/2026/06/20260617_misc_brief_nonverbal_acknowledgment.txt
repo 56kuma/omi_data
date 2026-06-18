@@ -1,0 +1,14 @@
+---
+date: 2026-06-17
+tag: misc
+duration: 0
+source_id: ea470f76-0c99-44a7-9439-46af11c68a1d
+---
+
+# Brief Nonverbal Acknowledgment
+
+A very short exchange with no substantive discussion; Speaker 0 only says "Mm," which reads as a brief acknowledgment or pause rather than a meaningful conversation.
+
+## 発話
+
+[Speaker 0] Mm.

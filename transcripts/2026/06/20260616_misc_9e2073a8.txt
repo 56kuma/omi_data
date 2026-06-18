@@ -1,0 +1,19 @@
+---
+date: 2026-06-16
+tag: misc
+duration: 99
+source_id: 9e2073a8-b1a0-4db1-8131-b3744e85d541
+---
+
+# 会話の断片と音声認識の乱れ
+
+内容は断片的で、音声認識の精度が低いため意味を取りにくい会話が複数話者で続いています。ボタンや「妹」、何かを始める／立ち上がるような表現が見られるものの、全体としては明確な議題や確定した予定は読み取れません。
+
+## 発話
+
+[Speaker 0] The bow cero, pensó todo
+[Speaker 0] Not the more mustard.
+[Speaker 1] A to the maquel not in the skills. i keep my sister.
+[Speaker 2] Now i did all the buttons.
+[Speaker 3] Oh, so let's get up.
+[Speaker 1] Kikoma does a little day. so it's a pick to them, kai show the kid by eating up the usually or master there. but that's a young society that is killed.

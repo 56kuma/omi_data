@@ -1,0 +1,17 @@
+---
+date: 2026-06-16
+tag: misc
+duration: 94
+source_id: 90a6f09b-d63c-4d9b-a686-33850ec3dbf4
+---
+
+# 飲み物の確認と短い会話
+
+会話では、何かをしてよいかどうかを軽く確認しつつ、コットンではなくミルク入りの飲み物かもしれないという話題が出ました。暑いのでそのままだと飲みにくいというニュアンスもあり、全体としては短い雑談と飲み物の確認が中心です。
+
+## 発話
+
+[Speaker 0] It's fine, you can do that.
+[User] 알있있있많도소있지. Cotton じゃない ？ はいい かも知 れない けども。 ミ ルク 入ってる。 ちょっと だけ ね 暑い から な、 そのまま だと。
+[Speaker 0] Hi must say oh not that you're cool coming back to make a job.
+[Speaker 0] You're not less than other.

@@ -1,0 +1,18 @@
+---
+date: 2026-06-16
+tag: misc
+duration: 71
+source_id: d85d1140-283c-4fa9-8861-ab3c0878aa35
+---
+
+# 音声認識の断片的なやり取り
+
+音声認識の断片的な会話で、Alexaに対して何かを伝えようとしている様子が見られるものの、発話は途切れがちで内容は明確ではありません。途中で「medium」「cutting」「finishing the case」などの断片的な語が出る一方、全体としては雑談・認識誤りを含む不明瞭なやり取りに終始しています。
+
+## 発話
+
+[Speaker 0] Alexa, i am only saying to it to be put it as yeah, i must have my uh uh
+[Speaker 0] Medium. yeah, yeah, and uh cutting this is a little.
+[Speaker 0] And since no one you might talk about, so so so so this is on a and mouse finishing the case.
+[Speaker 0] Alexa, you're unpenno.
+[Speaker 1] Time i said to say. no, none, so you mm-haku.

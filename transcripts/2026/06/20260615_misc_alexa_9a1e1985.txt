@@ -1,0 +1,24 @@
+---
+date: 2026-06-15
+tag: misc
+duration: 263
+source_id: 9a1e1985-d516-40e3-941b-8a3636b9f552
+---
+
+# Alexaで照明操作と通知削除
+
+Alexaに対して通知の削除を指示し、その後ダイニングのライトを点灯させ、続けてリビングのライトも点ける操作が行われた。全体として、音声でスマートホーム機器を操作する短いやり取りが中心だった。
+
+## 発話
+
+[Speaker 0] No, i see my mom. yes. yo. yo.
+[Speaker 1] Chyoto kalada hookie hookie sima shouldada hookie hooky si masite.
+[User] Beaker
+[Speaker 0] Mommy, mommy, mommy, mommy. shh.
+[User] Alexa, tt 付け して
+[Speaker 1] 通 知 を 削 除 しました。
+[User] アレ クサ、 ダイニ ング。 ライト 点 けて。 はい。 アレ クサ、 リ ビ ング へと 付けて
+[Speaker 1] Oh my chanchan.
+[Speaker 0] Nudi nudi nuddy nudi nudie nudi nudi nudi nudi nudi nudy nudi nudi nudi nudi nudi nudi
+[Speaker 0] Stay moth hotel dasket
+[Speaker 0] Yep. pan op.

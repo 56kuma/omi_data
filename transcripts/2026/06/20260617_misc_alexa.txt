@@ -1,0 +1,16 @@
+---
+date: 2026-06-17
+tag: misc
+duration: 150
+source_id: 0b71c2e0-6660-45e1-8388-e695c23b6658
+---
+
+# Alexaのリンク確認と意味不明な発話
+
+短い会話で、話者0は繰り返し「mommy」などの断片的な発話をしており、明確な内容は読み取れません。話者1は「Alexa, link…」のようにAlexaのリンク状態を確認する発言をしていますが、文脈は不明瞭です。
+
+## 発話
+
+[Speaker 0] Oh, yeah.
+[Speaker 0] We want me mommy mommy. we want me mommy mommy whee. mommy, mommy, mummy, boe. mommy, woman, we want me wee.
+[Speaker 1] Alexa, link it's good there. alexa, link is there.

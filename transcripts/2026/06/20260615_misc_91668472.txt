@@ -1,0 +1,15 @@
+---
+date: 2026-06-15
+tag: misc
+duration: 122
+source_id: 91668472-5702-45b1-b0af-1408fcb20df8
+---
+
+# 会話の途中での確認
+
+会話は途中で切れており、話者が何かを「この…でやるかどうか」確認し、最後に「Okay, cool. so」と応じています。具体的な議題や予定は読み取れず、短い合意・確認のやり取りのみが含まれています。
+
+## 発話
+
+[Speaker 0] I wonder if you want to do this in the
+[Speaker 0] Okay, cool. so

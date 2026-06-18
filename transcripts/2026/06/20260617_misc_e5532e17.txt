@@ -1,0 +1,15 @@
+---
+date: 2026-06-17
+tag: misc
+duration: 83
+source_id: e5532e17-2256-4fa1-a94f-9f09b4c86213
+---
+
+# 不明瞭な音声の短い発話
+
+短いトランスクリプトで、発話内容はほぼ判読不能な文字列と「I call that this.」という一文のみでした。明確な話題や具体的な予定、行動依頼は確認できませんでした。
+
+## 発話
+
+[Speaker 0] Alexa piorogede unchio-kidopste
+[Speaker 0] I call that this.

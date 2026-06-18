@@ -1,0 +1,15 @@
+---
+date: 2026-06-17
+tag: misc
+duration: 88
+source_id: c3413cfe-79a3-4df7-9dac-0f9f018c9aff
+---
+
+# Uh oh
+
+会話はごく短く、話者が「Uh oh」「Yeah」と反応しているだけで、具体的な話題や出来事は示されていません。
+
+## 発話
+
+[Speaker 0] Uh oh.
+[Speaker 0] Yeah.

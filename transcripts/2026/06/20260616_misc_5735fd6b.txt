@@ -1,0 +1,15 @@
+---
+date: 2026-06-16
+tag: misc
+duration: 12
+source_id: 5735fd6b-4267-4c16-a165-360ca659ce0e
+---
+
+# 会話の断片的な質問
+
+内容は非常に断片的で、話し手が何かを尋ねているようですが、音声認識の精度が低く、明確な話題や具体的な予定は読み取れませんでした。予定や行動項目として確実に抽出できる情報はありません。
+
+## 発話
+
+[Speaker 0] So then what the one you tell us now have kinetic.
+[Speaker 0] Madame, how did they have for a good cats good thing becoming that is the car?

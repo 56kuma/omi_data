@@ -1,0 +1,14 @@
+---
+date: 2026-06-15
+tag: work
+duration: 2
+source_id: 7eb0b1fe-0f82-4aeb-8cac-e02105148139
+---
+
+# Local Copy Will Be Made
+
+Speaker 0 says they will make a copy of the local file or data. No further details, timing, or additional action items are provided.
+
+## 発話
+
+[Speaker 0] We will make the copy of the local.

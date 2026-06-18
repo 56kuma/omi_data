@@ -1,0 +1,26 @@
+---
+date: 2026-06-16
+tag: misc
+duration: 221
+source_id: ab3db3c9-1b88-47f5-a293-c276475b28dc
+---
+
+# イタリアンキッチンと水の話
+
+会話では、イタリアンキッチンについて触れつつ、入る必要があるかどうかや人が抜けたことを気にするやり取りがありました。後半は「おむつ」「お金になったら」といった断片的な発言と、「お家しか売ってない」「水になった」といった驚きや混乱を示すような言葉が続き、全体としては文脈が途切れがちな雑談・断片会話の内容でした。
+
+## 発話
+
+[User] 俺が やって ます。
+[Speaker 0] So you can go to the bottom.
+[Speaker 1] That's one italian kitchen.
+[Speaker 2] So we're going to be able to do it.
+[Speaker 1] people skipped off.
+[Speaker 1] んで ないから いい、 いい かもしれない わ。
+[Speaker 1] 今 こう 入る 必要 ない かもしれない し。
+[User] お む つ お金 になったら ふ と思った、 ふ
+[User] と思った。
+[Speaker 1] 何か それ とも
+[User] 。
+[User] お 家 しか お 家 しか 売 ってない から 水 になった 水 になった 水 になった 水 になった びっくり した。
+[User] 水 になった 水 になった。

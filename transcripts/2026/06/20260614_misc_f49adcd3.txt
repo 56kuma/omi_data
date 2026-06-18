@@ -1,0 +1,14 @@
+---
+date: 2026-06-14
+tag: misc
+duration: 9
+source_id: f49adcd3-a997-42bc-9b33-828a2b78454e
+---
+
+# 繰り返しのフレーズを発話
+
+短い発話が1件だけ記録されており、「O sampoy kyo, matan o sampoy kyo, sampoy kyo」と同じようなフレーズが繰り返されています。会話の文脈や具体的な予定、依頼、決定事項は読み取れません。
+
+## 発話
+
+[Speaker 0] O sampoy kyo, matan o sampoy kyo, sampoy kyo

@@ -1,0 +1,15 @@
+---
+date: 2026-06-17
+tag: misc
+duration: 1
+source_id: 9efa9057-caa8-4bcb-aee1-789c87057ff6
+---
+
+# Jimmy の確認
+
+短い会話で、話者が何かの文言を口にした後、「Jimmy だと思う」と相手や対象を確認しているような発言がありました。文脈はかなり限定的で、特定の予定や行動は読み取れません。
+
+## 発話
+
+[Speaker 0] Stigmasse hoy tapata jätetto.
+[Speaker 0] Jimmy, i think.

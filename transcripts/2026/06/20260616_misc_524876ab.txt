@@ -1,0 +1,19 @@
+---
+date: 2026-06-16
+tag: misc
+duration: 77
+source_id: 524876ab-ed53-40d5-9899-35d5c6e5cf2b
+---
+
+# 音声断片の会話
+
+Alexaへの呼びかけや短い断片的な発話が並ぶのみで、明確な話題や具体的な予定は読み取れない。内容はほぼ雑談的・断片的で、カレンダー登録に値する確定イベントは含まれていない。
+
+## 発話
+
+[Speaker 0] Aqui vamos ver com o...
+[Speaker 0] Alexa. oh. thanks.
+[Speaker 1] Asiga.
+[Speaker 2] Da da da da.
+[Speaker 3] So i what's so someone this samad.
+[Speaker 4] What's so someone sa

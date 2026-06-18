@@ -1,0 +1,15 @@
+---
+date: 2026-06-17
+tag: misc
+duration: 43
+source_id: 677f320a-5369-402e-80d4-143f4cd40f0d
+---
+
+# Alexa に話しかけた短い音声メモ
+
+Alexa に対して何かを言おうとしている短い音声断片ですが、内容はほぼ聞き取れず、明確な話題や予定、依頼は確認できませんでした。
+
+## 発話
+
+[Speaker 0] Alexa, j'ai dit un tour qui a été alexa,
+[Speaker 0] Cookie dogste.

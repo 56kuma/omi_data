@@ -1,0 +1,16 @@
+---
+date: 2026-06-15
+tag: misc
+duration: 52
+source_id: d9aba5f1-e101-411c-8133-20586077549b
+---
+
+# Alexaでの確認と短いやり取り
+
+短い会話で、誰かが「見て」と促し、続けて断片的な発話があり、最後に「Alexa」に触れる一言が交わされています。具体的な予定や行動項目は読み取れず、内容は非常に断片的です。
+
+## 発話
+
+[Speaker 0] Смотри.
+[Speaker 0] Chamba, manachanno.
+[Speaker 1] Alexa, dinks kiti eh.

@@ -1,0 +1,15 @@
+---
+date: 2026-06-16
+tag: misc
+duration: 0
+source_id: 94c98cd5-2d2a-4216-8023-5ea488b26ace
+---
+
+# Alexaへの応答確認
+
+Alexaに対して「dinkskat」と発話したが、応答として「Can tell you that.」が返ってきただけの短いやり取りだった。具体的な話題や予定、行動事項は確認できない。
+
+## 発話
+
+[Speaker 0] Alexa, dinkskat.
+[Speaker 0] Can tell you that.

@@ -1,0 +1,15 @@
+---
+date: 2026-06-16
+tag: misc
+duration: 3
+source_id: 6f4c25d9-cd06-4089-919b-ea7150253f89
+---
+
+# 途中で言葉が切れた会話
+
+発話は断片的で、「What's your yeah?」に続いて「I think i might have put on the...」と途中で途切れており、具体的な話題や結論は読み取れません。
+
+## 発話
+
+[Speaker 0] What's your yeah?
+[Speaker 0] I think i might have put on the

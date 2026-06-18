@@ -1,0 +1,24 @@
+---
+date: 2026-06-16
+tag: misc
+duration: 78
+source_id: b5f019c9-9f14-449f-b27b-ae4e9595c9b4
+---
+
+# ゲームの掛け声と断片的な会話
+
+断片的な発話が続き、主に「shoot」や「Alexa」などの言葉が繰り返される場面でした。明確な話題や予定、依頼は読み取れず、会話内容はほぼノイズ的で、特定の意思決定や行動につながる情報はありませんでした。
+
+## 発話
+
+[Speaker 0] Picon, kick on, pick on.
+[Speaker 1] Oh the same atcha.
+[Speaker 2] Oh no gimasyo gimasyo.
+[Speaker 3] Hot ohano chikan desyo.
+[Speaker 2] Ohhurono kikan ohirono dikan disyamala.
+[Speaker 4] Shoot shoot. shoot. shoot. shoot. shoot. shoot. shoot.
+[Speaker 5] Shoot shoot shoot shoot. shoot.
+[Speaker 2] Yokeimasa.
+[Speaker 5] Hot. hot.
+[Speaker 0] Alexa, pyorogee osiko alexa, pyorog de osikoti cassé. alexa, pyorogide osikoti kasse. alexa, pyorogide osikoti kasse. pierre. dame.
+[Speaker 1] Kri-kri-kri.

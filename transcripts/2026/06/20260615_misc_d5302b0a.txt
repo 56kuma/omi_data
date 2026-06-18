@@ -1,0 +1,17 @@
+---
+date: 2026-06-15
+tag: misc
+duration: 119
+source_id: d5302b0a-662c-4037-a2f7-62b0da0d2e24
+---
+
+# 会話の断片と不確かな予定の言及
+
+会話は断片的で、何かができないこと、少し追加で進めること、そして『たぶん5』のような不確かな時期の言及が含まれています。最後に『昨年に戻るのは良くない』という趣旨の発言があり、予定や出来事についての確定情報は読み取れません。
+
+## 発話
+
+[Speaker 0] So, you can't do it.
+[Speaker 1] So, you can't get a little bit more than i'm going to do.
+[Speaker 0] And what they call this maybe that is the bag that they say when you're going to be able to do it again, maybe the five.
+[Speaker 0] I don't think it's good to come back in the last year.

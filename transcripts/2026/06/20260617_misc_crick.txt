@@ -1,0 +1,15 @@
+---
+date: 2026-06-17
+tag: misc
+duration: 0
+source_id: 7996727c-9e37-405c-b2c5-46c0396a0864
+---
+
+# Crick の確認
+
+短い発話で、Speaker 0 が「Will you keep in crop?」に続いて「Crick.」と述べており、内容は非常に断片的で、文脈や予定・具体的な行動は読み取れませんでした。
+
+## 発話
+
+[Speaker 0] Will you keep in crop?
+[Speaker 0] Crick.

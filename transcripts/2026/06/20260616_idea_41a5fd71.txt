@@ -1,0 +1,16 @@
+---
+date: 2026-06-16
+tag: idea
+duration: 68
+source_id: 41a5fd71-4d42-46c4-b3d8-c538041a31b7
+---
+
+# 黒いピースを探す会話
+
+黒いピースを見つけられるかどうかについて短くやり取りしている会話です。相手は「黒いピースを探せるかもしれない」と提案し、もう一方は「たぶん難しい」といった反応をしています。
+
+## 発話
+
+[Speaker 0] Yeah.
+[Speaker 0] Maybe you can find a black piece.
+[Speaker 1] No, maybe it's quite.

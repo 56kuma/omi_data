@@ -1,0 +1,26 @@
+---
+date: 2026-06-17
+tag: daily
+duration: 268
+source_id: 7115292d-b9da-4d31-849a-0e033065a768
+---
+
+# 家族との会話とAlexaへの言及
+
+家族らしき相手との短い会話の断片が中心で、父親や義母に触れる挨拶のようなやり取りがありました。途中でAlexaの名前が出ており、音声アシスタントについて話している様子がうかがえます。全体としては、内容が断片的で、雑談や試し話しのような雰囲気です。
+
+## 発話
+
+[User] お 父 ちゃ んです、 mother ちゃん。 お 父 ちゃ んです よ。
+[Speaker 0] 父 mother-in-law.
+[User] もう 当장들에요.
+[Speaker 0] 이지입서. 이지서.
+[Speaker 0] Vamos 使える か、 Change obvious.
+[Speaker 0] Udsuo え ましょう。 많아장.
+[Speaker 0] Alexa, längst ska det.
+[Speaker 1] Alexa.
+[Speaker 2] Pioråg vi det ultiök det.
+[Speaker 0] Yep. yep, yo.
+[Speaker 1] Yo, yo, yo, yo, yo.
+[Speaker 2] Yo, yo, yo.
+[Speaker 0] Should shoot shoot shoot shoes.

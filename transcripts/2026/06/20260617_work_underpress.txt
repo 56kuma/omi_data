@@ -1,0 +1,15 @@
+---
+date: 2026-06-17
+tag: work
+duration: 114
+source_id: 312e1e6e-e561-4742-96e0-d11b043d3985
+---
+
+# Underpress に取り組む
+
+短い発話で、何かに「commit to underpress」と述べているが、文脈がほとんどなく、具体的な予定や詳細は確認できない。
+
+## 発話
+
+[Speaker 0] Oh
+[Speaker 0] Commit to underpress.

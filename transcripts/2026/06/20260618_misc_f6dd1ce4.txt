@@ -1,0 +1,17 @@
+---
+date: 2026-06-18
+tag: misc
+duration: 162
+source_id: f6dd1ce4-f0e0-44e5-a7a0-0ca9db4ee195
+---
+
+# 雨の日の初めての散歩と歯の話
+
+takumaが「雨の日に歩くのは初めてかな」と話しており、雨の中での移動について触れています。あわせて、Speaker 0が「今、歯を見て」と言っており、口元や歯の状態を気にしている様子がうかがえます。全体としては、短いやり取りの中で天候と身体のちょっとした話題が出ています。
+
+## 発話
+
+[User] O
+[User] Sí, eso Se hizo.
+[User] 雨 の日 で 歩 く のは 初めて かな。
+[Speaker 0] Ah, too. look on my teeth right now.

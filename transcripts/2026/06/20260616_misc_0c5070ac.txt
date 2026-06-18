@@ -1,0 +1,17 @@
+---
+date: 2026-06-16
+tag: misc
+duration: 92
+source_id: 0c5070ac-b483-424f-bce2-36336edb735b
+---
+
+# カフェでの会話の確認
+
+カフェにいたことについて短いやり取りがあり、会っていたのかどうかを確認するような雰囲気の会話でした。具体的な予定や約束、行動項目は読み取れませんでした。
+
+## 発話
+
+[Speaker 0] No, you have timasu, yes, you know, is it not meeting?
+[Speaker 1] So, you know, i'm not sure.
+[Speaker 0] So they were in cafe.
+[Speaker 1] Ah, yeah. oh.

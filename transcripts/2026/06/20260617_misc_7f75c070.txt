@@ -1,0 +1,17 @@
+---
+date: 2026-06-17
+tag: misc
+duration: 122
+source_id: 7f75c070-a86b-41f2-b306-bcffe0f8c7bc
+---
+
+# 確認のやり取り
+
+相手が何かを見ているかどうかを確認するやり取りがあり、こちらは「見ていると思った」と返答したが、内容の詳細までははっきりせず、短い確認応答で終わっている。
+
+## 発話
+
+[Speaker 0] I thought they were looking at it.
+[Speaker 0] Oh yeah.
+[Speaker 0] No, it's too sligarma jättää.
+[Speaker 1] Senegarotinaka daleko is oleja.

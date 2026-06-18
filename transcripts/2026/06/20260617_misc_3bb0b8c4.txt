@@ -1,0 +1,19 @@
+---
+date: 2026-06-17
+tag: misc
+duration: 145
+source_id: 3bb0b8c4-64cd-408b-b302-494f3a7e8b38
+---
+
+# 通話の断片的な会話
+
+会話は断片的で、一部は聞き取りにくい内容でした。驚きや反応を示す短い発話があり、途中で日本語の断片として「一人で」「キーパー」「死に」「通ってる」「これは」といった語が聞こえますが、全体として明確な話題や結論は読み取れませんでした。
+
+## 発話
+
+[Speaker 0] Wow, something that shit.
+[Speaker 0] Oh.
+[Speaker 2] My 一 心 一人で キ ーパ ーを De 一 死 に 一 死 に 一 死 もう一 もう一 もう一 死 ちゃって
+[Speaker 1] 周 一 一 一 通 ってる。
+[Speaker 1] これは
+[Speaker 0] So come on, that's a part of the way i'm not sure.

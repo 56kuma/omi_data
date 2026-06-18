@@ -1,0 +1,15 @@
+---
+date: 2026-06-18
+tag: misc
+duration: 31
+source_id: 9c198f7b-c89a-4b54-8d39-4343b31508f5
+---
+
+# 週末の予定調整
+
+会話では、週末に向けた予定の調整らしき内容が断片的に話されていますが、具体的な日時、相手、確定した行動は読み取れませんでした。カレンダーに登録すべき確定イベントは含まれていません。
+
+## 発話
+
+[Speaker 0] Wait, so there.
+[Speaker 0] And uh just uh kick against uh weekends uh meet skin at the end.

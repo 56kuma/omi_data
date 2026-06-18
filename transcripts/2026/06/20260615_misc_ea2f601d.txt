@@ -1,0 +1,14 @@
+---
+date: 2026-06-15
+tag: misc
+duration: 6
+source_id: ea2f601d-c9c9-4be8-84cd-ae78d968f24f
+---
+
+# 名前の発話を確認
+
+Speaker 0 が「Hazama hazama masuda takuma hazamasuda」と名前のような語句を繰り返して発話しています。会話の文脈や予定・行動の示唆はなく、短い識別用の発話のように見えます。
+
+## 発話
+
+[Speaker 0] Hazama hazama masuda takuma hazamasuda.
