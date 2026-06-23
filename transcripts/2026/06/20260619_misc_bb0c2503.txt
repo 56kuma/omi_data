@@ -1,0 +1,15 @@
+---
+date: 2026-06-19
+tag: misc
+duration: 1
+source_id: bb0c2503-6c6f-4b03-9885-2d0c7a56a98e
+---
+
+# 会話の冒頭で何かを確認している場面
+
+話者が「何を持っているの？」と尋ね、その後「これからその流れで進めるつもりだ」と述べています。会話は途中で切れており、具体的な話題や結論までは読み取れません。
+
+## 発話
+
+[Speaker 0] What do you have?
+[Speaker 0] I think we're going to go through the.

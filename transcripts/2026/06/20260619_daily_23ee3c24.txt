@@ -1,0 +1,33 @@
+---
+date: 2026-06-19
+tag: daily
+duration: 703
+source_id: 23ee3c24-33d0-48b1-ba1d-e243cf2d6e3f
+---
+
+# 子どもの記入内容を確認
+
+子どもの名前と読み方など、記入内容を確認してもらう場面。新幹線や電車、建物の見た目についての雑談も少し混ざっているが、中心は書類への子どもの情報の記入確認と案内のやり取り。
+
+## 発話
+
+[User] マ マ ニ ャ ン でしょう。 三 分 前 着 ぐらい のね。
+[User] よし、 来 ない よね。
+[User] だ んだん 試 しに こう、 つ な み ち ち なん から。 歩いて みよう と思う。 広 瀬 でも
+[User] 下 口 ビル カ ンで ますね。
+[User] そう、 覚 える ん よ。 こ の新 幹 線 える ん よ。 線 道 後。
+[User] なん じゃ ろう な、 それ
+[User] 電車 がいっぱい やな。
+[User] こんな はず だよ。
+[User] あれ か 前 提 に 日 置き があるから
+[User] で かい お 家 やな。
+[User] 女 子 育 か 女 子 育。
+[User] Yes.
+[User] This
+[User] 、
+[User] お はよう 言 いたい な。
+[Speaker 1] お願いします。
+[Speaker 2] こちら の方 にお 子 様 のお 名前 と 読み 方 と ですね。 はい。 例 書 いと いて いただいて よ ろしい ですか。 の下 で 大丈夫です。 はい。
+[Speaker 2] だから 説明 の
+[Speaker 0] So no catachino yoku e kilo tari tocora or iste it take tell you like your nende master. imagin joga this ne hoy kenjioga conoshigatoniana ju and inari and toka kutosio take a kekaio take a getha mina telly mask.
+[Speaker 1] So it can't take.

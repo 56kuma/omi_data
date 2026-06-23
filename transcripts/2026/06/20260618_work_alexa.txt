@@ -1,0 +1,18 @@
+---
+date: 2026-06-18
+tag: work
+duration: 29
+source_id: 6f26be4a-8b3d-4c80-adf5-c24a2a3d5e5d
+---
+
+# Alexaに関する断片的な会話
+
+Alexaについてのやり取りが断片的に交わされており、何かをリンクする話題や「新しい女の子たちを見る」といった発言、フットボールに関する言及、少し前に何かをしていなかったこと、そして「テンソル」でどれくらい時間がかかるかを尋ねる内容が含まれている。全体としては、会話の一部が崩れていて文脈は不明瞭だが、Alexaや作業・準備に関連する話題が中心。
+
+## 発話
+
+[Speaker 0] Alexa, link is there.
+[Speaker 1] Alexa, look at the new girls sir.
+[Speaker 2] It needs to get a whole football.
+[Speaker 3] I wasn't doing the one for a little bit.
+[Speaker 0] How long to do it on the tensor?

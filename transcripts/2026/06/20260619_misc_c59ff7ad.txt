@@ -1,0 +1,20 @@
+---
+date: 2026-06-19
+tag: misc
+duration: 118
+source_id: c59ff7ad-7268-4769-9fae-d35ad185a850
+---
+
+# 短い多言語のやり取り
+
+コアノ語らしき短いフレーズが断片的に交わされており、韓国語や日本語風の音声も混ざったような、意味を特定しにくい会話の記録です。明確な予定、依頼、重要事項は読み取れません。
+
+## 発話
+
+[Speaker 2] tan coreano.
+[User] Sambalzebu
+[Speaker 0] Okuri masin.
+[Speaker 1] Otto sanga.
+[Speaker 2] Purega hoshika.
+[Speaker 3] Shh, shhi, shh, shh, sh sh, shh, shh, sh.
+[Speaker 0] Otto sanga kazebo kuri masi.

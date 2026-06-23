@@ -1,0 +1,19 @@
+---
+date: 2026-06-19
+tag: misc
+duration: 128
+source_id: eefa5012-3052-4243-8d7b-1f30caaa59a6
+---
+
+# 電車内での注意喚起
+
+車内と思われる場面で、誰かが『次の駅』や『この電車には車掌がいない』といった発話をしつつ、黒いケースに寄りかかるのは危険だと注意が出されています。別の発話でも『黒いケースの近くに近寄らないで』と、遊んでいるため距離を取るよう求める内容が繰り返されています。
+
+## 発話
+
+[Speaker 0] Or you don't say that. as soon as you go to you could have said the next station is.
+[Speaker 1] I could have ty.
+[Speaker 0] The next issue is, you know what is t517.
+[Speaker 1] This ring does not have a conductor on board.
+[Speaker 2] Leaning on the black case is very dangerous.
+[Speaker 3] Please keep away from the black case because i'm playing.

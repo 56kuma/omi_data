@@ -1,0 +1,15 @@
+---
+date: 2026-06-21
+tag: misc
+duration: 1
+source_id: 253c8d51-e338-44c4-ba85-621914c60edc
+---
+
+# 会話のお礼とやり残した話
+
+相手にお礼を伝えたあと、「あなたに話しておくべきことがある」と述べており、何か未解決の会話や伝えるべき用件があることを示しています。
+
+## 発話
+
+[Speaker 0] Oh thank you.
+[Speaker 0] I think i owe you a conversation.

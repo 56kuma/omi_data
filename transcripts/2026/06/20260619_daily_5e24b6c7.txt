@@ -1,0 +1,17 @@
+---
+date: 2026-06-19
+tag: daily
+duration: 9
+source_id: 5e24b6c7-a460-4220-9814-8b257faf9227
+---
+
+# 駅の案内アナウンス
+
+駅の車内アナウンスが中心で、次の駅の案内、JR Vaughanへの乗り換え案内、右側のドアが開くことが伝えられている。移動中の電車内での通常の案内放送で、予定された会議や個人的な予定は含まれていない。
+
+## 発話
+
+[Speaker 0] Teijäytelmä, porakkainen, tehkkyvä iginalen, senokki kyläinen.
+[Speaker 0] The next station is chikana for ty 16.
+[Speaker 1] Please change here for the jr vaughn.
+[Speaker 2] The doors on the right side will open.

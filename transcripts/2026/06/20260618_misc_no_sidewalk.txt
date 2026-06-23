@@ -1,0 +1,16 @@
+---
+date: 2026-06-18
+tag: misc
+duration: 0
+source_id: 231f8d38-d334-44db-8b32-a7f058715e03
+---
+
+# No sidewalk
+
+会話では、歩道がないことが指摘され、それを踏まえて「良いことだ」と判断している短いやり取りがありました。具体的な予定や行動項目は含まれていません。
+
+## 発話
+
+[Speaker 0] What's the summary?
+[Speaker 1] No sidewalk.
+[Speaker 0] So, you can see it's a good thing.

@@ -1,0 +1,14 @@
+---
+date: 2026-06-21
+tag: misc
+duration: 23
+source_id: eab599d1-0735-4344-8f26-e86a9897b36c
+---
+
+# 会話の一言
+
+「Totto」と呼びかけつつ、相手に対して不満や苛立ちを短くぶつけている発話です。具体的な予定、行動項目、確認された出来事は読み取れません。
+
+## 発話
+
+[Speaker 0] Totto, det är ingen så jävla uskon här.

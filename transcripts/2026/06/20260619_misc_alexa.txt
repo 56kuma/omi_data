@@ -1,0 +1,14 @@
+---
+date: 2026-06-19
+tag: misc
+duration: 0
+source_id: 314287e7-52ed-4881-b6f6-386b6872dffc
+---
+
+# Alexaへの呼びかけ
+
+短い発話で、Alexaに対して何かを伝えようとしている様子があります。内容は不明瞭ですが、Alexaを呼びかけるくだけた会話が中心です。
+
+## 発話
+
+[Speaker 0] Alexa, t'es kete eh. alexa, t'es kete? alexa, it's gonna let the case.

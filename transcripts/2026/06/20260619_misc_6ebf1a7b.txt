@@ -1,0 +1,15 @@
+---
+date: 2026-06-19
+tag: misc
+duration: 56
+source_id: 6ebf1a7b-4ab8-4b6d-b063-a18663456010
+---
+
+# データが見当たらない旨の確認
+
+発話は短く、データが見当たらないことを確認している内容でした。続けて「christian」と名前らしき語が出ていますが、文脈は非常に限定的で、具体的な予定や行動内容は読み取れません。
+
+## 発話
+
+[Speaker 0] Nossa
+[Speaker 0] So i see no data, so christian.

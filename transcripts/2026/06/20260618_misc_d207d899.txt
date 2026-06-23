@@ -1,0 +1,16 @@
+---
+date: 2026-06-18
+tag: misc
+duration: 12
+source_id: d207d899-6f03-4054-873f-01c79435039e
+---
+
+# 挨拶を交わす短い会話
+
+Speaker 0、Speaker 1、Speaker 2 が短く挨拶を交わすだけの非常に簡単なやり取りでした。具体的な議題、予定、依頼事項はなく、雑談レベルの会話です。
+
+## 発話
+
+[Speaker 0] Oh meja, me manacha.
+[Speaker 1] Hiya manacha.
+[Speaker 2] Yo canasa.

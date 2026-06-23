@@ -1,0 +1,15 @@
+---
+date: 2026-06-19
+tag: misc
+duration: 86
+source_id: 8d44bd6e-659e-417f-b52c-35eb16bea177
+---
+
+# 短い否定と「Tomotte」発話
+
+発話はごく短く、最初に「No. No,」と否定が続いたあと、「Tomotte」と聞き取れる一言があるだけで、具体的な話題や予定は読み取れません。
+
+## 発話
+
+[Speaker 0] No. No,
+[Speaker 0] Tomotte.

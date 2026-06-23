@@ -1,0 +1,14 @@
+---
+date: 2026-06-21
+tag: misc
+duration: 0
+source_id: 72468ecf-c204-4f3f-bcac-ddfad0f52efc
+---
+
+# 意味確認の短い発言
+
+相手に対して「今のそれは何？」という趣旨の、意味や状況の確認を求める短い発言が記録されています。予定や具体的な行動、重要な出来事は含まれていません。
+
+## 発話
+
+[Speaker 0] Contou o que é tu agora.

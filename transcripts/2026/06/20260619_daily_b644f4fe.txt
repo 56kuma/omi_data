@@ -1,0 +1,20 @@
+---
+date: 2026-06-19
+tag: daily
+duration: 41
+source_id: b644f4fe-bb0a-4e36-abc2-b3a64bdfbeb5
+---
+
+# 鉄道線と次の駅に関する会話
+
+会話は断片的で、誰かが体調不良を訴えるような発言のあと、教育やCrypto sheet line、ローカル列車としての運行、そして次の駅が「averying ty20」と聞こえる案内らしき内容が続きました。全体として、意味の取りづらい自動認識文の中に、列車運行や駅案内に関する話題が含まれています。
+
+## 発話
+
+[Speaker 0] I think i'm dying.
+[Speaker 1] She will tell up.
+[Speaker 2] A pre education. good at it.
+[Speaker 3] But she always always
+[Speaker 0] Crypto sheet line is a stable line.
+[Speaker 1] This frame will operate as a local train in crypto sheet line.
+[Speaker 0] The next station is averaging ty20.

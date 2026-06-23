@@ -1,0 +1,15 @@
+---
+date: 2026-06-19
+tag: daily
+duration: 133
+source_id: 9de8ec78-81ff-40ed-b640-753953f2bda8
+---
+
+# 東急田園都市線の車内アナウンス
+
+電車内の案内放送で、次の停車駅が「日吉（TY13）」であること、そこで東急東横線や横浜市営地下鉄グリーンラインに乗り換えできることが案内されている。続けて次の駅が「元住吉（TY12）」であることも告知され、ドアの開閉案内が含まれている。
+
+## 発話
+
+[Speaker 0] The next station is gil sheep t y 13. please change here for the biggest line, the tokyo sheep, and the yukuma medicine subway green line. the doors of the right side of the wall.
+[Speaker 0] The next station is motosumiyoshi ty12.

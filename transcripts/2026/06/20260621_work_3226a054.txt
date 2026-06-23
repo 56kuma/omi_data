@@ -1,0 +1,16 @@
+---
+date: 2026-06-21
+tag: work
+duration: 101
+source_id: 3226a054-1c8a-4de4-a2ac-4ad2a4c7c72a
+---
+
+# 医師の説明と顧客対応についての会話
+
+会話では、医師のような立場の説明や対応について断片的に触れられており、名前の継承、案内や説明の不明瞭さ、顧客対応をもっと行う必要があることが示唆されています。ただし、全体として音声認識の精度が低く、具体的な内容や予定はほとんど判別できません。
+
+## 発話
+
+[Speaker 0] But that's just an name should be carried on together eh.
+[Speaker 0] Um idawa dango machine nothing on any man language was in the hayarian ski anymore downboard there and go nothing called up the mizukara or tango. they start or like a doctor, you know, if i also more and say take must be maps of my code, you must get off.
+[Speaker 0] So could you have eco made you buy you and joe no this way? a modi and no enjoy you so i enough day because i'm the high new guy in that card. oh, but you know, i know enjoy you also needed more customers.

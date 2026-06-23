@@ -1,0 +1,17 @@
+---
+date: 2026-06-19
+tag: daily
+duration: 76
+source_id: d7b7afa9-03a7-4cc8-8d84-ca5c224dd0a0
+---
+
+# 東上線の普通列車アナウンス
+
+東上線の普通列車内での案内が記録されており、列車は東上線の普通列車であること、次の駅が「奥多摩山（Okudayama）15」と案内され、左側のドアが開くと告知されています。
+
+## 発話
+
+[Speaker 0] What a theta's mass up, i say that's mouth.
+[Speaker 0] This train is a local train found for chakuchi koli on the katoshi line at the same line. this train will offer it as a local train a katoshi line.
+[Speaker 1] The next station is okudayama ty 15.
+[Speaker 2] The doors on the left side will open.

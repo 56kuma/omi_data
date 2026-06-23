@@ -1,0 +1,16 @@
+---
+date: 2026-06-18
+tag: misc
+duration: 104
+source_id: 8ce66cb7-be87-4f84-b3d9-7833d2ced447
+---
+
+# Alexaへの生物学的な発話と相づち
+
+Alexaに対して生物学に関するような断片的な発話が続き、その後に『Uto chan this year, manachan, uttojan this year』のような不明瞭な言及があり、最後に相づちのような『Hmm. hmm. yep.』が返されています。内容全体としては、意味の取りにくい短い会話断片です。
+
+## 発話
+
+[Speaker 0] Alexa, biologa ne un jokilogste. we tweet tweet we alexa think is there. alexa, biologi until the other.
+[Speaker 0] Uto chan this year, manachan, uttojan this year. uto chan this year.
+[Speaker 1] Hmm. hmm. yep.

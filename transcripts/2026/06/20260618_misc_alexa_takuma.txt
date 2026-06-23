@@ -1,0 +1,15 @@
+---
+date: 2026-06-18
+tag: misc
+duration: 6
+source_id: c9415949-6839-4e39-b25e-63851e7d2ad5
+---
+
+# Alexa と Takuma の断片的なやり取り
+
+Alexa に対する短い応答と、takuma の断片的で多言語混在の発話が記録されています。内容はかなり断片的で、明確な話題や具体的な予定・依頼は読み取れませんでした。
+
+## 発話
+
+[Speaker 0] Alexa, alle bien, das geht.
+[User] 이아요. 이아요. 오리서. 아니까사 living ぐらい 決 して

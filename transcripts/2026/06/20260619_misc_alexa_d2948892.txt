@@ -1,0 +1,18 @@
+---
+date: 2026-06-19
+tag: misc
+duration: 41
+source_id: d2948892-cd85-490d-9b0e-fdcaa5b9d64a
+---
+
+# Alexa と子どもに関する短いやり取り
+
+会話は非常に短く断片的で、話者が「Alexa」に呼びかけたり、「ultimate kid」といった表現を交えながら何かを言い合っていますが、具体的な話題や結論はほとんど読み取れません。
+
+## 発話
+
+[Speaker 0] Toto, to zan zakini, to je tigrio.
+[Speaker 0] Yep.
+[Speaker 0] No. alexa, you're looking at the ultimate kid.
+[Speaker 1] Alexa. alexa.
+[Speaker 2] Pure okay there.

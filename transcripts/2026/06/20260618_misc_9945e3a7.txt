@@ -1,0 +1,14 @@
+---
+date: 2026-06-18
+tag: misc
+duration: 0
+source_id: 9945e3a7-a1eb-48c9-8e38-8cdb83d72cf9
+---
+
+# 確認用の説明
+
+相手が「こんなふうにできるか」と、やり方や可能な操作について短く確認している会話です。具体的な予定、期限、行動項目は含まれていません。
+
+## 発話
+
+[Speaker 0] What's what you can do like this?

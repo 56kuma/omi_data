@@ -1,0 +1,19 @@
+---
+date: 2026-06-19
+tag: daily
+duration: 166
+source_id: 7755c0cb-3249-43ff-b099-91709e358930
+---
+
+# お父ちゃんの空中散歩
+
+「お父ちゃん、空中散歩」といった言葉を中心に、短い断片的な発話が続く内容です。車や物の名前のような音声認識の断片、韓国語の短い応答らしき発話が混ざっており、全体としては家族内の軽いやりとりや遊び心のある会話が記録されたものに見えます。
+
+## 発話
+
+[Speaker 0] お 父 ちゃん 空 中 散 歩。
+[Speaker 0] Sí.
+[Speaker 0] On a car, on a cas, on a cas, on a cargassu et kitakana
+[Speaker 0] 다.
+[Speaker 1] 무이 무이
+[Speaker 0] So start a co it to see ah to see ah are it no?

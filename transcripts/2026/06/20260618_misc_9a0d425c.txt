@@ -1,0 +1,14 @@
+---
+date: 2026-06-18
+tag: misc
+duration: 124
+source_id: 9a0d425c-4637-4e3c-8feb-c810816c1208
+---
+
+# 左側のドアを確認
+
+Speaker 3 が、ドアの位置について『ドアは左側』と案内しています。
+
+## 発話
+
+[Speaker 3] side of the door The door is on the left
