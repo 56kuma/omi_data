@@ -1,0 +1,20 @@
+---
+date: 2026-06-22
+tag: misc
+duration: 72
+source_id: fda1de4c-5235-4d23-a037-3cd403c73532
+---
+
+# 会話の途中でのやり取り
+
+発話の一部が断片的に記録されており、内容は途中での言い直しや確認のような短いやり取りが中心です。具体的な予定、依頼、重要な決定事項は読み取れませんでした。
+
+## 発話
+
+[Speaker 0] Are you not doing
+[Speaker 0] Oh, tanashiya damachangua.
+[Speaker 1] Tanasi tall.
+[Speaker 0] Oh, oh manachi dagama changwa.
+[Speaker 1] I chan.
+[Speaker 0] I changed yeah.
+[Speaker 1] Before

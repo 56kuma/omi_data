@@ -1,0 +1,15 @@
+---
+date: 2026-06-24
+tag: misc
+duration: 10
+source_id: 19c49e51-d783-4e06-be2c-2238f5521997
+---
+
+# 断片的な言葉の繰り返し
+
+発話内容はかなり断片的で、英語の単語やフレーズが途切れ途切れに繰り返されています。明確な話題や予定、依頼事項は読み取れず、意味のある会話内容としてはほぼ判別できません。
+
+## 発話
+
+[Speaker 0] Pop top, no so much.
+[Speaker 0] Could it coulda courta coulda coulda coulda coulda coulda could have

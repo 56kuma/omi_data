@@ -1,0 +1,15 @@
+---
+date: 2026-06-24
+tag: misc
+duration: 70
+source_id: f9a0a252-f499-418f-8ba0-23017857c01a
+---
+
+# 意味をつかもうとする発話
+
+短い断片的な発話のみで、内容としては「何に見えるか」「究極的にはどう見えるか」といった見立てや印象に関する確認を試みているように聞こえますが、全体の文脈はかなり不明瞭です。明確な予定や実行項目は含まれていません。
+
+## 発話
+
+[Speaker 0] Oh my chantensity massani
+[Speaker 0] What must it look with the ultimate?

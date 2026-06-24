@@ -1,0 +1,14 @@
+---
+date: 2026-06-24
+tag: misc
+duration: 17
+source_id: a29baa71-4661-49e5-9803-6652e370f390
+---
+
+# 空腹を伝えるひとこと
+
+話し手が「お腹が空いた」と空腹感を日本語とローマ字交じりで表現している短い発話です。具体的な予定、依頼、会話の進展はありません。
+
+## 発話
+
+[Speaker 0] お な かが、 ほ っか。 Onakaga, suita nå kan na. Onakaga, suita no kan da.

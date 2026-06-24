@@ -1,0 +1,16 @@
+---
+date: 2026-06-24
+tag: daily
+duration: 31
+source_id: 2dbbd0bf-b58e-4a44-8956-b0bdcaea42ac
+---
+
+# ポケモンの鳴き声のやり取り
+
+短い会話の中で、「kic」「kicko」といった擬音のやり取りが続き、最後に「Pokémon through」とポケモンに言及して終わる、遊び心のある断片的な会話です。
+
+## 発話
+
+[Speaker 0] Oh ça kic, kic, kic, kic, kic, kic, kic.
+[Speaker 1] Kik, kicko
+[Speaker 0] Pokémon through.

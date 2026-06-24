@@ -1,0 +1,16 @@
+---
+date: 2026-06-24
+tag: misc
+duration: 109
+source_id: adf6ab0d-eb7c-42b1-8fc2-40897c469f9c
+---
+
+# ジッパーの不具合についての会話
+
+ジッパーに関する短い会話で、ひとりが「And then some zipper.」と述べ、もうひとりが「Yeah, why are you off?」と返しています。内容は断片的で、ジッパーの状態やずれについて触れているものの、具体的な結論や予定は示されていません。
+
+## 発話
+
+[Speaker 0] And then some zipper.
+[Speaker 1] Yeah, why are you off?
+[Speaker 0] so 行って きます よ。 行って きます。

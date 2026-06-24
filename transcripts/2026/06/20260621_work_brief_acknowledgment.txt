@@ -1,0 +1,14 @@
+---
+date: 2026-06-21
+tag: work
+duration: 0
+source_id: 906804a6-24a3-4320-9213-33d6d462253b
+---
+
+# Brief Acknowledgment
+
+Speaker 0 simply acknowledges the prior point with "I know." No further discussion or actionable details are present.
+
+## 発話
+
+[Speaker 0] I know.

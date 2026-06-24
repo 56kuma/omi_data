@@ -1,0 +1,16 @@
+---
+date: 2026-06-22
+tag: misc
+duration: 0
+source_id: 8ecdadac-295b-41d4-9803-ec36beeefe96
+---
+
+# Europeでの対応可否についての短いやり取り
+
+Europeでは対応できないという発言に対し、相手が「あなたにとっては特別な送付・案内なのかもしれないが、確信がない」といった趣旨で返答し、最後に短く反応が返されています。全体として、具体的な予定や決定事項はなく、対応範囲についての曖昧な確認が中心です。
+
+## 発話
+
+[Speaker 0] It doesn't do in europe.
+[Speaker 1] However, it's a supermirent to you, so i'm not sure.
+[Speaker 0] Oh.
